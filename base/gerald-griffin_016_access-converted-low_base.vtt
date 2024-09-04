@@ -1,0 +1,1928 @@
+WEBVTT
+
+00:00.000 --> 00:22.400
+The James Clayton Lecture is a special lecture.
+
+00:22.400 --> 00:27.720
+There are a series of lectures which are endowed under the will of the late James Clayton
+
+00:27.720 --> 00:38.720
+of Turkey, who is an active member of this institution from 1901 to 1944 and to whose
+
+00:38.720 --> 00:45.240
+generosity were greatly indebted. The Foundation enables the Institution Council to invite distinguished
+
+00:45.240 --> 00:51.160
+engineers or scientists to present a lecture on any subject of importance to the engineering
+
+00:51.160 --> 01:01.480
+profession at an opportunity such as this. I have very great pleasure introducing Mr. Gerald
+
+01:01.480 --> 01:09.120
+D. Griffin, our lecturer tonight, who took up the post of Director of the NASA Lyndon
+
+01:09.120 --> 01:16.880
+B. Johnson Space Center in Houston, Texas just about a year ago. He was born in Athens,
+
+01:16.880 --> 01:24.640
+Texas on the Christmas Day, 1934, and received a bachelor's degree in air and optical engineering
+
+01:24.640 --> 01:32.360
+from the Texas University Agricultural and Mechanical College, and that was in 1956. He served
+
+01:32.360 --> 01:39.680
+four years as an officer in the U.S. Air Force. After the service, he was an air space engineer
+
+01:39.680 --> 01:47.220
+with Douglas aircraft, Lockheed Missile and Space Company, and General Dynamics. Mr.
+
+01:47.220 --> 01:54.920
+Griffin first joined NASA in 1964, and he joined it at the Johnson Space Center at that time
+
+01:54.920 --> 02:01.320
+towards the manned Spacecraft Center, and he was a flight director on all of the 11 Apollo
+
+02:01.320 --> 02:09.640
+missions. He was lead flight director on Apollo 12, on Apollo 15, and Apollo 17.
+
+02:09.640 --> 02:20.180
+He also involved in all the Gemini flights as a flight controller. During 1976 to 1977, Mr.
+
+02:20.180 --> 02:27.620
+Griffin was deputy director of the Dryden Flight Research Center, Edwards in California.
+
+02:27.620 --> 02:33.800
+Following this post, he was appointed deputy director of the Kennedy Space Center in Florida,
+
+02:33.800 --> 02:41.920
+between July 1980 and June 1981. Concurrently, served as associate administrator for external
+
+02:41.920 --> 02:49.760
+relations in NASA headquarters at Washington, DC. Mr. Griffin left NASA for a year to become
+
+02:49.760 --> 02:54.640
+vice president for systems engineering and management at Scott Science and Technology
+
+02:54.640 --> 03:03.080
+Inc. of Lancaster, California. This he did until taking up his current position with NASA
+
+03:03.080 --> 03:11.100
+in August 1982. Ladies and gentlemen, it is my greatest pleasure, honor to ask Mr.
+
+03:11.100 --> 03:15.280
+Griffin present his lecture tonight.
+
+03:15.280 --> 03:29.120
+Thank you, Mr. President. It's a great honor to be here as I toured the institution
+
+03:29.120 --> 03:35.200
+this afternoon. I couldn't help but think what had happened within the confines of this
+
+03:35.200 --> 03:42.320
+building in the last 137 years or so. And it's a great privilege to just be able to be
+
+03:42.320 --> 03:50.960
+here with you and get the feeling of that community that has been so much to the world in what
+
+03:50.960 --> 03:57.960
+has emanated from these confines. I thank you for your kind introduction, Mr. President.
+
+03:57.960 --> 04:02.240
+Every time I hear that, I'm quite often wondering if the audience might get the impression
+
+04:02.240 --> 04:09.880
+I have trouble holding a job. I've moved around quite a bit and it's been a great deal
+
+04:09.880 --> 04:17.800
+of fun. And when I left NASA in 1981, I thought I'd probably never see it again. And I had
+
+04:17.800 --> 04:22.660
+been home barely a year when I was asked to come back and be the director of the Johnson
+
+04:22.660 --> 04:29.860
+Space Center and I could not stop that call. I had to do it. And it's been an extremely
+
+04:29.860 --> 04:36.500
+interesting two years. We are at what I would call a pivotal point in the American Space
+
+04:36.500 --> 04:42.660
+Program. Maybe I should say even the free world space program because it truly is an
+
+04:42.660 --> 04:51.020
+international flavor now. Granted, we are still in the center of it in the states but the
+
+04:51.020 --> 04:57.740
+tentacles are reaching further and further each day. And I am sure that in the next decade,
+
+04:57.740 --> 05:04.620
+the free world will join together even more than we ever have before to do some many and
+
+05:04.620 --> 05:11.500
+very exciting things in space. I want to talk tonight about the shuttle. Primarily,
+
+05:11.500 --> 05:18.340
+it's engineering aspects. I decided that rather than reading my paper verbatim that I wanted
+
+05:18.340 --> 05:25.380
+to expand it to some degree and I'll do that, I also will be using some charts that you
+
+05:25.380 --> 05:31.060
+haven't, if you have a copy of the paper and I'm in there. But I felt it was important to zero
+
+05:31.060 --> 05:35.380
+in on a couple of areas that I thought this audience particularly might like to hear about.
+
+05:36.900 --> 05:43.620
+We are in an infant stage with space shuttle. Despite what you hear in the press sometimes,
+
+05:43.620 --> 05:49.460
+it's going very well. We have flown all of 12 times and as most of you, I suspect many of you
+
+05:49.460 --> 05:55.860
+have been involved in complex programs of one kind or another, that has not given us all the
+
+05:55.860 --> 06:03.460
+answers yet that we will need and a number of flights will have to be continued before we have
+
+06:03.460 --> 06:07.780
+all of the engineering answers and we'll have some problems yet that we will have to face. But for
+
+06:07.780 --> 06:14.660
+a system as large and complex as it is, we are quite happy with the first 12 flights and I think
+
+06:14.660 --> 06:21.460
+that in the next year or so, we will close out most of the nagging, let me call it that,
+
+06:21.460 --> 06:30.340
+kinds of issues that are still facing us today. I'm going to, the presentation is broken into
+
+06:30.340 --> 06:34.660
+several pieces. I'm going to start with an overview of the program because I want to make sure that
+
+06:34.660 --> 06:44.580
+we all begin at the same starting point. I use these two slides to try to give you a feel for those
+
+06:44.580 --> 06:51.540
+of you that don't have it, the feel for the size of this vehicle. It is very large. The dimensions,
+
+06:51.540 --> 06:58.420
+while I won't read them all, the orbiter is roughly the size of the length of a DC-9.
+
+06:59.060 --> 07:04.420
+It has an aspect ratio or a thickness ratio, maybe it's a better term, there will more like a 747.
+
+07:04.420 --> 07:09.620
+Very, very large vehicle. When I've shown it, an isometric form on the right just to give you a feel
+
+07:10.340 --> 07:16.260
+for the major pieces and they are as follows. The airplane device, we call the orbiter,
+
+07:17.220 --> 07:23.940
+the it rests at launch on top of a very large external tank and that external tank carries liquid
+
+07:23.940 --> 07:30.980
+oxygen and liquid hydrogen and strapped onto the side of each or each side of the external tank are
+
+07:30.980 --> 07:37.140
+two very large solid rocket boosters that the largest we have ever flown in our country.
+
+07:38.580 --> 07:46.020
+The total weight of this stack at lift-off is approximately 5.5 million pounds. Give or take
+
+07:46.020 --> 07:53.060
+a few. We produce about 6.5 million pounds of thrust at lift-off, which is a slightly smaller
+
+07:53.060 --> 08:00.020
+number than we had in Apollo. The Saturn V generated about 7.5 million pounds to give you a measure there.
+
+08:00.980 --> 08:10.020
+The perhaps the heart of the system, if one wants to think of it that way, is the space shuttle orbiter.
+
+08:10.580 --> 08:17.380
+The orbiter is a very complex avionics machine. Many people think of it more like an airplane,
+
+08:17.380 --> 08:23.700
+but let me assure you, and you're going to see this later on, it is a mechanical engineer's dream.
+
+08:24.340 --> 08:30.900
+There are more actuators, cranks, pulleys, a structure, just enough to keep
+
+08:31.540 --> 08:39.620
+any and all of you very, very happy. I want to give you a feel for the profile of how the mission
+
+08:39.620 --> 08:46.180
+is flown before we get into some of the details. And then if you'll refer to this slide, it kind of
+
+08:46.180 --> 08:51.780
+goes around in a sequence. We end up landing back at a runway and going back into the launch complex.
+
+08:52.740 --> 08:58.580
+This is a picture back in this phase right at the very beginning where we are starting to roll the vehicle
+
+08:58.580 --> 09:05.460
+to the pad. And in the next shot, you'll see the vehicle on the crawler transporter headed toward
+
+09:05.460 --> 09:12.340
+the launch pad. Now this is a very large piece of machinery. The crawler transporter itself weighs
+
+09:12.340 --> 09:18.580
+about 6 million pounds. It's the same crawler transporter that we used in Apollo, and we've got two of them.
+
+09:18.900 --> 09:25.460
+They were refurbed. In fact, about the only thing we did to them was replace the soft goods
+
+09:26.580 --> 09:34.820
+since Apollo, and it was directly usable in this use. The mobile launcher is the rather
+
+09:34.820 --> 09:40.420
+square device that the stack is sitting on. It weighs another 8 million pounds. It in itself is
+
+09:40.420 --> 09:47.220
+like a little factory. It's got quite a lot of plumbing and servicing for the vehicle in it.
+
+09:48.100 --> 09:51.940
+And then the orbiter sitting on top of there in the dry configuration without any propellants,
+
+09:51.940 --> 09:58.980
+and it's another 3 and a half million pounds or so. This brings a total then as we're progressing to
+
+09:58.980 --> 10:06.260
+the pad of about 18 million pounds on the roll. It moves at about a half a mile an hour to a
+
+10:06.260 --> 10:12.260
+mile per hour, and it's a distance of about three and a half miles. So it's a pretty much a major
+
+10:12.260 --> 10:18.180
+part of the day to make the track from the vehicle assembly building out to the launch pad.
+
+10:19.700 --> 10:29.220
+The next shot will show you that as it's coming up onto the pad, you can see in this area here,
+
+10:29.220 --> 10:36.020
+this is the flame trench, and this home over launcher is moved up on top of the flame trench,
+
+10:36.100 --> 10:43.140
+and it's set into place on rather large pastels, and then the crawler is removed. It's hydraulically
+
+10:44.260 --> 10:50.820
+lowered, and then it backs back down the pad and gets out of the way. So then the engines are
+
+10:50.820 --> 10:58.420
+fully exposed to the flame trench. The next shot is a shot of the vehicle. This happens to be STS-1,
+
+10:59.060 --> 11:04.420
+made at night. It's a very pretty sight. It's always lit up very brightly if some of you may have
+
+11:04.420 --> 11:11.140
+seen some launches, and they usually occur something roughly like the birth of babies,
+
+11:11.140 --> 11:17.380
+seems like late at night or early in the morning. And as it's a beautiful sight, very dynamic,
+
+11:17.380 --> 11:24.180
+and I hope some of you can someday, if you haven't seen one, see it sitting there. There's a very
+
+11:24.180 --> 11:31.540
+inspiring thing before left off just to see that much energy, harnessed sitting there ready to go
+
+11:31.540 --> 11:44.340
+is a real sight. Now the launch phase begins with the ignition of the main engines. There are
+
+11:44.340 --> 11:49.860
+three main engines in the rear of the orbiter. They produce about a half million pounds of thrust
+
+11:49.860 --> 11:55.940
+each, and each solid rocket produces about two and a half million pounds of thrust. So we start
+
+11:55.940 --> 12:00.340
+to main engines about eight minutes, sorry, eight seconds prior to lift off, and as soon as they are
+
+12:00.340 --> 12:07.700
+up to thrust and measured correctly, then we send the ignition signal to the solid rocket boosters,
+
+12:07.700 --> 12:13.140
+and once that happens it's leaving, even if the hold down bolts don't fire, it's gone.
+
+12:16.180 --> 12:20.660
+And we've not had a, that's about a triply redundant system to make sure those bolts fire,
+
+12:20.660 --> 12:25.620
+but the vehicle sits on the base of the solid rocket boosters, and there's four attached
+
+12:25.620 --> 12:30.660
+posts on each. And as you can imagine, we want to make sure it lets go. So as soon as you'd like
+
+12:30.660 --> 12:36.980
+the rocket engine, I'm sorry, the solid rocket engine, you have lift off. On the left, the only
+
+12:36.980 --> 12:41.460
+reason I'm not going to repeat any of those numbers there but I wanted to show you that was an artist
+
+12:41.460 --> 12:46.740
+rendition of what lift off should look like. It's a, you know, there's a date up in the upper right hand
+
+12:46.740 --> 12:52.340
+corner of October 79, and because of some delays in the shuttle, we had to get people to trust us
+
+12:52.340 --> 12:57.860
+as that's what it would look like. But finally, on the right, you see the lift off of a real one,
+
+12:57.860 --> 13:06.900
+and indeed it looked very much like we had planned. The early launch phase is a very dynamic one,
+
+13:07.860 --> 13:18.100
+and the, it happens at about 60 seconds after lift off, we pass through a very high Q, a high dynamic
+
+13:18.100 --> 13:22.980
+pressure region. That's about the roughest part of the ride, the astronauts report at that point
+
+13:22.980 --> 13:27.620
+that there are some vibrations, some noise, a lot of wind noise even that they can still hear.
+
+13:28.500 --> 13:33.860
+And at about two minutes after lift off, the solid rockets are expended. All of their propellant
+
+13:33.860 --> 13:40.340
+is burned, and they are jettisoned away from the external tank. And at that point, you still have
+
+13:40.340 --> 13:46.180
+the three main engines producing about a half million pounds of thrust each, and the orbiter sitting
+
+13:46.260 --> 13:50.180
+on top of this external tank that's feeding those engines with liquid oxygen, a good hybrid.
+
+13:50.900 --> 13:54.740
+Now on the left, again, was an artist's condition of what that should look like, and on the right,
+
+13:55.300 --> 14:00.660
+you actually see the solid rocket blisters starting to, they had been separated. You can see the three
+
+14:00.660 --> 14:06.500
+main engines still burning, and you can see the faint haze of the external tank. This was taken
+
+14:06.500 --> 14:12.580
+with a ground-based camera at Patrick Air Force Base, and then you can see the solid rockets have
+
+14:12.660 --> 14:18.420
+been jettisoned, and they are still burning some residual, what we call tail-off types of propellant,
+
+14:18.420 --> 14:25.060
+but they're producing little to no thrust. And at this point, when they go through about 50%
+
+14:25.060 --> 14:29.780
+of thrust, we immediately get off of it because it starts to be more of a drag, and it is a help,
+
+14:29.780 --> 14:40.580
+and it thrusts the case very quickly. The next shot is a picture of the booster's tumbling
+
+14:40.660 --> 14:47.860
+before they are recovered, and in the next shot, you will see the deployment of the drug parachute.
+
+14:49.060 --> 14:56.500
+Here's the drug that is starting to stabilize this one rocket. This drug shoot is 54 feet in
+
+14:56.500 --> 15:03.460
+diameter, and it pulls out three main shoots for each rocket that are 115 feet in diameter each,
+
+15:04.340 --> 15:09.300
+so that these are the largest parachutes that have ever been built for any operational purpose,
+
+15:10.020 --> 15:15.060
+and if that isn't enough on the last flight, we were getting a little water damage in this
+
+15:15.060 --> 15:20.500
+afternoon, quite a lot of water damage, because even with 115 foot shoots, we were impacting the
+
+15:20.500 --> 15:26.580
+water at about 88 feet per second, roughly 60 miles an hour. So we wanted to sew that down some
+
+15:26.580 --> 15:33.380
+more in the last flight. On the right-hand booster, we flew three main parachutes of 136 feet
+
+15:33.380 --> 15:42.900
+diameter on each, and we got much reduced velocity at impact, a lot less damage, and so for
+
+15:42.900 --> 15:47.620
+the subsequent flights from here on, we're going to fly 136 foot parachutes as the main shoots.
+
+15:51.700 --> 15:59.540
+These things land about 122 miles or so down range, and float and are recovered. They float in a
+
+15:59.540 --> 16:06.420
+vertical mode. We go in with a nozzle in the bottom, make an airtight seal, blow the air,
+
+16:06.420 --> 16:10.900
+blow the water out, replace it with air, and they float horizontally at that point, and we
+
+16:10.900 --> 16:18.020
+tow them in to Cape Canaveral. Take them apart, send them back to the factory and get a new one.
+
+16:18.020 --> 16:25.140
+It comes apart in several segments, and they are loaded at a fire call in the state of Utah,
+
+16:25.780 --> 16:29.940
+but the segments are sent by rail, and then they're sent back to us loaded by rail.
+
+16:31.780 --> 16:36.020
+As we go on higher during the launch phase, we finally get to the point where we shut the
+
+16:36.020 --> 16:42.180
+main engines off. That's just short of orbital velocity. The reason we do that is because we want
+
+16:42.180 --> 16:47.380
+this external tank, which is only piece of the system that's not reusable. We want it to re-enter
+
+16:47.380 --> 16:54.100
+the atmosphere, and indeed from the Cape, it does re-enter and go into the Indian Ocean.
+
+16:54.660 --> 17:00.260
+Mostly in very small pieces, in fact there's very little of it left. It's very lightweight
+
+17:00.260 --> 17:06.660
+structure, only weighs 78,000 pounds empty. As you can see, very large 28 feet in diameter,
+
+17:06.660 --> 17:12.420
+as I recall, about 150 feet long. We do a small separation maneuver, which the artist's
+
+17:12.420 --> 17:18.020
+rendition on the left shows to get away from the tank. In the right hand picture is the actual
+
+17:18.020 --> 17:24.580
+picture of an external tank that was taken from an engineering camera located on the base of
+
+17:24.580 --> 17:28.980
+the orbital vehicle as it separated. One of the things that you can see is you can see some,
+
+17:29.540 --> 17:35.300
+in the actual photograph, you can see some charring of the rear end. That's because it gets
+
+17:35.300 --> 17:43.620
+very hot. This whole tank is covered with what we call Sophie spray-on foam insulation used for
+
+17:43.620 --> 17:50.340
+two purposes. One is to these are cryogenic fuels, and we must keep them well-encelated as we
+
+17:50.340 --> 17:58.740
+can. It also gives protection to the exit heating that we get. At this point, the orbiter is
+
+17:58.740 --> 18:06.340
+moving at a speed of about 25,000 feet per second, and a slightly short of orbital velocity.
+
+18:07.220 --> 18:11.940
+With the orbital maneuvering system that's on the, and I'll show you a bit of picture
+
+18:11.940 --> 18:19.380
+this later, but it's located in the pod of the vehicle back in the back. Two 6,000 pound
+
+18:19.380 --> 18:25.460
+thrusters, we top off the last bit of velocity needed to get into orbit, about 200 feet, or
+
+18:25.460 --> 18:30.900
+two to 300 feet more per second. At that point, we're in orbit and ready to go into operation.
+
+18:33.700 --> 18:38.260
+In the next chart, I'm going to go back to the sequence chart because I'm going to be discussing now
+
+18:38.340 --> 18:46.820
+this orbital operations portion of the flight before I get to the entry. This picture on the right
+
+18:46.820 --> 18:54.500
+is a picture of STS-41B, and I'll tell you a story of why that's got such a funny number.
+
+18:56.740 --> 19:01.780
+As you know, we had an occasion on Apollo 13 one day when we were headed to the moon,
+
+19:01.780 --> 19:07.620
+the oxygen tank blew up, and it's so happened that we launched that vehicle at 13-13 hours,
+
+19:08.420 --> 19:13.780
+and there are a number of people that says we probably should never have another spaceship
+
+19:13.780 --> 19:18.740
+with the number of 13 attached to it. So we tried to devise a system that's got everyone
+
+19:18.740 --> 19:25.940
+thoroughly confused, but we don't have an STS-13. The four, when I say 41 Bravo, STS-4,
+
+19:26.580 --> 19:32.420
+that's fiscal year 84. One is launched from the east coast and B is the second mission in the year.
+
+19:32.980 --> 19:39.140
+Now if I haven't got you all confused, but now something's wrong. This happens to be a shot on orbit
+
+19:39.140 --> 19:45.300
+taken from a spaz spacecraft. This was a spacecraft that was inside the payload bay deployed and
+
+19:45.300 --> 19:50.420
+looked back at the orbiter. It was eventually recaptured and put back into the payload bay and
+
+19:50.420 --> 19:54.260
+brought home. We'll be fine that payload again incidentally. It was built by the Germans.
+
+19:55.220 --> 20:01.620
+Very inexpensively and was a super payload. It was three axis stabilized and very performed very well.
+
+20:02.340 --> 20:11.300
+You're looking at the two, to give you an idea, this house two satellites that were deployed
+
+20:11.940 --> 20:16.660
+before the shot was taken. Those are sun shields that cover them up to protect them thermally.
+
+20:17.460 --> 20:21.220
+And in this picture, they've already been deployed, but those were the two that failed
+
+20:22.020 --> 20:27.940
+as they were ignited to go on the higher altitude. And I might add parenthetically that we have now been
+
+20:29.060 --> 20:33.380
+working for about six months. This happened in February. We've been working for the last five,
+
+20:33.380 --> 20:38.660
+six months on techniques to recover those satellites. And the Indonesians that don't want to have
+
+20:38.660 --> 20:42.420
+given us to go ahead. And we think Western Union is going to give us the go ahead. And we're going to
+
+20:42.420 --> 20:49.300
+fly a mission month after next, November, where we will go retrieve those satellites, put them back into
+
+20:49.780 --> 20:58.100
+cargo bay and bring them back to Earth and return them to their owners. This is a place where we got
+
+20:58.100 --> 21:05.540
+some relatively bad press because it always was attached to us. NASA, I mean, actually it was a
+
+21:05.540 --> 21:11.380
+commercially developed upper stage. NASA did not have anything to do with that development.
+
+21:11.380 --> 21:18.580
+The satellite users chose to use them for price and insurance, et cetera. Those of all
+
+21:19.300 --> 21:27.140
+been paid off and it is a good stage. On the last mission, we did fly two more of the same upper
+
+21:27.140 --> 21:32.660
+stage mission that just landed and they worked just fine. Interestingly enough, we think the problem
+
+21:32.660 --> 21:40.900
+there was with the composite nozzles that these devices use. And we have, the community has figured
+
+21:40.900 --> 21:47.380
+out a way to scan those nozzles. In fact, they're using a CAT scan process. It looks like the bringing
+
+21:47.380 --> 21:53.140
+scan that can detect voids in the composite and think that's what had happened through a process
+
+21:53.140 --> 22:01.540
+era. There had been voids in that and so we've corrected that. The, the own orbit operations
+
+22:01.540 --> 22:04.900
+involve, can't involve a great deal of other things. Let me show you a picture of the,
+
+22:05.460 --> 22:09.860
+this is the deployment of one of those satellites and I can't tell you which one it is. You can see
+
+22:09.860 --> 22:16.180
+the Earth to the left. It has been ejected by springs and it is spinning on its way out of the
+
+22:16.180 --> 22:21.860
+orbiter bay. I know you don't get to see much of this on TV anymore but on American television,
+
+22:21.860 --> 22:25.460
+we replay these things after they happen. They normally happen out of sight of the station
+
+22:26.100 --> 22:31.620
+and we have to dump it on videotape and so we get to see these things happen quite out. We saw
+
+22:31.620 --> 22:38.820
+all three satellites that were launched on the last vehicle. Other orbit operations involve,
+
+22:38.820 --> 22:46.100
+this is what we call the LDF, standing for long duration exposure facility. It's a 20,000
+
+22:46.100 --> 22:56.900
+pound structure that we have put many kinds of materials and components, some electronic
+
+22:56.900 --> 23:04.180
+components even on the outer skin of it. We deployed it about six months ago. It will stay in orbit
+
+23:04.180 --> 23:11.060
+for a year and then we will go retrieve it, bring it back down in order to conduct studies on
+
+23:11.060 --> 23:15.060
+what the space environment does to these kind of materials, long duration exposure.
+
+23:15.620 --> 23:22.500
+Obviously if we want our systems to last longer, we will have to make sure that we provide the
+
+23:22.500 --> 23:26.740
+right kind of coatings, right kind of protection and we want to know more about the long term effects
+
+23:26.740 --> 23:34.820
+of the space environment. This was incidentally built all in-house at NASA. There are some structures,
+
+23:34.820 --> 23:42.820
+engineers at Langley Center had a real good time at this. That's the remote manipulator arm that
+
+23:42.820 --> 23:48.580
+you see poking out the top. It's actually holding onto it at deployment and then it just let it go.
+
+23:48.580 --> 23:54.740
+And it's stabilized by gravity gradient and it's with this long axis pointing it to your.
+
+23:56.180 --> 24:02.580
+Another kind of operation we do is our manned operations. A number of EVAs are scheduled
+
+24:03.540 --> 24:08.580
+extra vehicular activities are scheduled in the near future. This is a picture of Bruce McCannellus
+
+24:08.660 --> 24:13.380
+on the checkout of the man maneuvering unit. It was the first time we had put a man outside
+
+24:13.940 --> 24:21.140
+and cutting loose without any tethers. It worked very well and we are in the process now we've
+
+24:21.140 --> 24:25.940
+flown another mission since then that's when we repaired the solar max mission. We did have some
+
+24:25.940 --> 24:32.180
+problem with recovery device so as a result we finally captured the solar max satellite that we
+
+24:32.180 --> 24:36.900
+repaired with the remote manipulator arm with the maneuvering unit work fine. We are going to
+
+24:37.220 --> 24:45.540
+on the retrieval mission that I mentioned earlier we will be using the MMU to retrieve the two
+
+24:45.540 --> 24:51.940
+satellites that have failed to get into the proper orbit. And the astronaut will have a device
+
+24:51.940 --> 24:57.940
+on the front of him we call a stinger which will actually he'll fly out and poke it into the nozzle
+
+24:58.580 --> 25:06.580
+of the spent stage on the upper stage and then it has a we call it a molly boat or a lag boat
+
+25:06.660 --> 25:11.060
+kind of device that pulls out and then he tightens it down and he drags it back to the shuttle.
+
+25:11.860 --> 25:16.340
+At that point he puts a grapple fixture on it, remote arm reaches in and gets it puts it back into
+
+25:16.340 --> 25:20.180
+the payload bay. That's what it says here and that's what we're going to try to do.
+
+25:24.340 --> 25:29.780
+Fellow that is going to do that is a good friend of some other people here in the hall tonight.
+
+25:30.580 --> 25:34.500
+His name is Joe Allen he is a scientist he's also one of the best
+
+25:35.300 --> 25:38.820
+EVA specialists that we have so Joe got that assignment he's happy to do it.
+
+25:43.380 --> 25:46.100
+All right now I'm coming down the right hand side of the left chart.
+
+25:48.020 --> 25:53.060
+As we start to end the mission then what we do is we slow the vehicle down by about 300 feet per second
+
+25:54.660 --> 25:58.980
+and that's enough to knock it out of orbit. We do that with those same engines that we toughed off
+
+25:58.980 --> 26:03.700
+the orbital velocity with we just turn the vehicle around and fire it backwards.
+
+26:06.660 --> 26:11.940
+We do that about 4,400 nautical miles from the landing site. At that time we're back to about
+
+26:11.940 --> 26:16.820
+25,000 feet per second and in the early stages of entry as you see depicted by this picture
+
+26:18.820 --> 26:21.700
+the angle of attack is like 40 degrees so it's very high.
+
+26:24.500 --> 26:28.020
+Here is a picture taken again from a ground-based camera during entry.
+
+26:28.980 --> 26:35.540
+This is an altitude of only about 100,000 feet and at this point the vehicle is slowed down it is
+
+26:35.540 --> 26:42.980
+a glider that has no power obviously so it's a one-shot landing and it better be right the first time.
+
+26:44.340 --> 26:54.820
+The touchdown speed varies from about 180 to 230 knots. There is a very steep descent.
+
+26:55.380 --> 27:01.460
+It's a 24 degree glide slope. A standard aircraft is roughly on the order of a degree and a half
+
+27:01.460 --> 27:07.700
+two degrees. This is very steep. There's a pre-flare maneuver at about 2500 feet and then he slows
+
+27:07.700 --> 27:14.420
+down across the boundary and puts it on the ground. That is worked very well and what I want to do now
+
+27:14.420 --> 27:19.540
+is show you a little bit about how the structure is put together in the vehicle. Here's a touchdown
+
+27:19.620 --> 27:27.940
+on the lake bed. We go to the lake bed on occasions when we did for all of the landing tests that we
+
+27:27.940 --> 27:32.500
+did early in the program because there's a lot of room for error and it turns out we didn't need
+
+27:32.500 --> 27:37.940
+much on the way and it all worked well. We also go to the lake bed for the first flight of any new
+
+27:37.940 --> 27:43.380
+orbiter and that's one reason that's why we landed discovery on this last flight. We landed back at
+
+27:43.380 --> 27:50.020
+the lake bed because it was the first time we had flown that vehicle. I should say we've got
+
+27:50.020 --> 27:57.460
+three vehicles delivered now. Challenger, Columbia, and Discovery and we are awaiting the delivery
+
+27:57.460 --> 28:03.220
+in about March of next year of Atlantis which will give us four orbiters and then there is a
+
+28:06.260 --> 28:10.740
+I guess I could call it a controversy at least a discussion on the possibility of building a fifth
+
+28:10.740 --> 28:22.420
+orbiter but at about 1.7 billion per coffee in dollars that's it's a decision that is not going
+
+28:22.420 --> 28:28.660
+to be easy for to get it and frankly I don't know whether we will or not. The four vehicle fleet
+
+28:29.300 --> 28:35.300
+will support the flight rate that we have planned but there are some people that feel like a fifth
+
+28:35.380 --> 28:41.380
+would give us some insurance and that's kind of what it falls on. On the structural side of this
+
+28:41.380 --> 28:48.980
+vehicle now I go right onto the next slide. I wanted to point out one thing this vehicle is the
+
+28:48.980 --> 28:55.780
+orbiter is literally built all over the United States and comes together at Palmdale, California to be
+
+28:55.780 --> 29:02.340
+assembled. The wing for instance is built by Grumman. The mid-fusilized area that you see this whole
+
+29:03.060 --> 29:08.100
+I mean you're right my pointer here. You see that. This whole area here is built by General Dynamics.
+
+29:09.860 --> 29:17.140
+The payload bay doors are built by Rockwell, the crew cabin and the far-ducing lies are all
+
+29:17.140 --> 29:21.860
+Rockwell with tails built by Fairchild. The homespods are built on McDonald's Douglas.
+
+29:23.940 --> 29:28.180
+Literally all over the states we've got people building basic structure of this vehicle.
+
+29:28.340 --> 29:34.340
+The words on that left hand chart pretty well explained the kind of technology that we use to build
+
+29:34.340 --> 29:41.140
+the structure. It's pretty much basic airplane structure. We decided to do that and then cover it
+
+29:41.140 --> 29:48.180
+with thermal protection. Aluminum will take generally in the area of 350 degrees temperature without
+
+29:48.180 --> 29:52.820
+permanent deformation. So we had to design a thermal protection system that I'll talk about a
+
+29:53.540 --> 29:59.780
+little bit later than insured its temperature at the aluminum would not exceed that 350 degrees.
+
+29:59.780 --> 30:08.180
+And that's worked very well. On the right you see an exploded view and a visible looking inside
+
+30:08.180 --> 30:13.700
+the structure. I put that there for reference to show you that it is basically a rib and stringer
+
+30:14.420 --> 30:22.740
+type device. Now let's look at each major piece. Here's the forward fuselage
+
+30:23.140 --> 30:30.900
+crew module. The crew module which is just this pressurized area here had to be built and isolated
+
+30:30.900 --> 30:36.580
+from thermal deathbed formations because it is a pressure holding device. So it is fully welded
+
+30:36.580 --> 30:42.900
+interglume machine panels that are that are completely welding. No bolts or anything holding it
+
+30:42.900 --> 30:48.500
+together. The rest of the structure however and then that I should say too that that cabin
+
+30:49.060 --> 30:56.900
+free floats inside the upper and lower forward fuselage has. In that it is isolated.
+
+30:57.940 --> 31:03.220
+Its loads are taken out through the vertical and side longitudinal loads for instance.
+
+31:03.220 --> 31:08.740
+There's two there's a fitting here and a fitting on the far side that looks something like
+
+31:08.740 --> 31:16.260
+trunion devices that take loads in two directions. There's a pin here that will only take load in one
+
+31:16.260 --> 31:24.500
+direction and it's allowed to rotate in any other that takes out the vertical. That associated
+
+31:24.500 --> 31:29.860
+with the two trunions take out the vertical loads and then there's a lateral load fitting down here
+
+31:29.860 --> 31:37.540
+in this area on each side that only takes out the lateral loads. So the crew module is inside this
+
+31:38.420 --> 31:43.620
+outer shell if you will and isolated from the thermal death formations that are on the outside
+
+31:44.420 --> 31:53.780
+skin. That was a real problem in the initial design because these wells are long they're big
+
+31:53.780 --> 32:00.340
+and they were subject to a lot of manufacturing error early on and they we felt like they had to
+
+32:00.340 --> 32:06.740
+be essentially perfect and indeed that's they've turned out to work very well. We've learned a lot
+
+32:06.740 --> 32:12.100
+about it and in the crew module that we built for the Atlantis vehicle which will be delivered next
+
+32:12.100 --> 32:19.780
+year the learning curve in those four builds was extreme took them much less time the first one
+
+32:20.900 --> 32:27.220
+was tough and they had to redo many wells and they had a lot of engineering had a mostly associated
+
+32:27.220 --> 32:32.980
+with manufacturing techniques just to make these rather long wells. That's come along very nicely
+
+32:33.780 --> 32:41.300
+however in the last build. The F structure is very interesting and that's this this
+
+32:42.100 --> 32:48.420
+oriental again here that's this area right here this has to of course the main engines fit into
+
+32:48.420 --> 32:53.540
+there so there's a tremendous load placed on that structure. Now I've got two views of that this
+
+32:53.540 --> 32:59.380
+one on the right is the more or less the outer skin view if you will and there's nothing too dynamic
+
+32:59.380 --> 33:07.700
+here machined bulkheads and and interglomy machined skin in some cases but for the most part nothing
+
+33:07.700 --> 33:13.620
+too exotic. It's when you turn around look at it from the other side and this is at the rear of
+
+33:13.620 --> 33:20.420
+that F structure and those members are where they react all the loads for the main engine has
+
+33:20.420 --> 33:26.660
+got to dump those loads into the rest of the orbiter structure to build and that's large it's hard
+
+33:26.660 --> 33:34.420
+to tell here but it is extremely large piece of structure and we went to a diffusion bonding technique
+
+33:34.500 --> 33:40.500
+titanium in this case and if you're familiar with diffusion bonding you put it in strips and put it
+
+33:40.500 --> 33:47.940
+under pressure and heat until it flew the way I think of it as it flows smoothly and makes a a solid
+
+33:47.940 --> 33:57.620
+homogeneous beam or our structural member. The the fact was is that in those days we could just not
+
+33:57.620 --> 34:02.740
+get forging as large as we needed and that's why they went to diffusion bonding which is a very
+
+34:02.740 --> 34:09.700
+expensive and in slow process if we build a fifth orbiter and in the fourth orbiter that's already
+
+34:09.700 --> 34:15.700
+built those both in the 10 years it's taken us to develop shuttle we now have forging that we're
+
+34:15.700 --> 34:21.540
+fitted so we've actually changed on 104 or I'm sorry Atlantis and 104 is a vehicle number we've
+
+34:21.540 --> 34:28.980
+changed to to a forging for this F structure. The other thing we did is that we found out we could
+
+34:29.460 --> 34:35.780
+I want to point out these boron epoxy tubular struts that's a bit of a myth in this
+
+34:35.780 --> 34:43.140
+gnomer what we did we could save some weight by bonding boron epoxy composite on the outside of
+
+34:43.140 --> 34:51.300
+the titanium structure and we saved as I recall the number about 20% in our weight by strengthening
+
+34:51.460 --> 34:59.620
+the titanium with a bonded graphite or boron epoxy over the top of that's worked very well
+
+35:00.980 --> 35:06.100
+and we think that in it's one of the things that we really think in future structural work that
+
+35:06.100 --> 35:12.100
+we'll see more and more of them getting the metal out and using epoxy or I'm sorry composite
+
+35:13.220 --> 35:19.140
+materials to to give you added strength. The F structure as you can imagine is a very
+
+35:19.940 --> 35:26.740
+critical item we inspect this very carefully after each flight for cracks etc it's held up
+
+35:26.740 --> 35:32.820
+extremely well and done well. Talk about some of the other mechanical systems I'm not going to go
+
+35:32.820 --> 35:39.220
+into all the structure I want to talk about some of the other mechanical systems and this is where
+
+35:39.220 --> 35:48.420
+I say earlier a mechanical engineer is delight we've got a lot of moving parts on this vehicle the
+
+35:49.780 --> 35:58.660
+doors vents remote manipulators and landing gear etc and I want to talk about a couple of them
+
+35:59.540 --> 36:06.980
+the talk about the main and the nose gears this is an interesting design it's very simple
+
+36:08.100 --> 36:13.540
+it things get very simple when you only have one opportunity to land and you can't
+
+36:14.020 --> 36:19.460
+there's no reason to have a retraction system because there's no ability to go around and so
+
+36:20.420 --> 36:26.660
+we were able to design this system very simply very reliably it's really a gravity fall as all it is
+
+36:26.660 --> 36:31.620
+you just hydraulically unlock the latches and there's some stored energy hydraulic
+
+36:32.340 --> 36:38.100
+pistons that help shove the thing down and they all they all fold forward so that the air load also
+
+36:38.100 --> 36:45.780
+helps to as you're moving helps to to drop them have worked very very well the one test that we
+
+36:45.780 --> 36:52.180
+have yet to do we've used for steering only differential braking to date and we're going to
+
+36:53.860 --> 36:59.860
+in the next flight or two engage nose wheel steering the reason we have and as we we have had
+
+36:59.860 --> 37:06.580
+some problems in the in the control laws that this is a very heavy machine and a very small gear
+
+37:07.300 --> 37:12.740
+and some of you that have dealt with airplanes on the same line we haven't needed nose wheels during
+
+37:12.740 --> 37:16.900
+they could engage you anytime they need it but they haven't needed it they felt comfortable using
+
+37:16.900 --> 37:22.180
+differential braking but this this system has worked extremely well and it's very simple very
+
+37:22.180 --> 37:32.260
+reliable the the other system that I want another system I want to talk about is not many people
+
+37:32.260 --> 37:38.500
+understand how important what I'm about to say is the if I can make this error work and we can see it
+
+37:39.380 --> 37:45.380
+right here on the bottom of the orbiter is the only way we can get the liquid oxygen and liquid
+
+37:45.380 --> 37:51.300
+hydrogen into the main engines we do that through these two doors we call it the ET closeout doors
+
+37:52.100 --> 37:58.020
+and then those doors must close because that's one of the hotter areas of the vehicle on entry
+
+37:58.820 --> 38:04.580
+so I can't in a line drawing explain to you exactly how the doors work but I can tell you they are
+
+38:04.580 --> 38:13.060
+folded back from their closed position 180 degrees actually they're folded this way toward each other
+
+38:13.060 --> 38:19.300
+there there's a device that that latches the two of them together because this has to go through
+
+38:19.300 --> 38:25.060
+acid through this high dynamic dynamic pressure region and all without fluttering and coming apart
+
+38:25.620 --> 38:32.020
+and then after the tank is saw is separated the doors are actuated closed all the way around and then
+
+38:32.740 --> 38:38.820
+firmly hogged in and pulled in with latches to give a very tight seal so that you don't leak hot
+
+38:38.820 --> 38:48.100
+gases in there during the entry it's something we can't see it must work the the crew actuates
+
+38:48.100 --> 38:54.180
+these doors closed and they get some talkbacks that tell them that they're closed in the cockpit but
+
+38:54.180 --> 39:02.660
+it's strictly trust that they indeed did close and close firmly so we've they spent a lot of
+
+39:02.660 --> 39:08.660
+time these are brillium doors because they did not want them to deform and then they've got tile
+
+39:08.660 --> 39:16.420
+actually glued onto them bonded to them that give you the thermal protection very very important
+
+39:16.420 --> 39:21.380
+device and it's a little bit that could be for one of the nail if it didn't work right
+
+39:22.340 --> 39:29.540
+she was lost in therefore the battle but i'm happy to report we've had no problems with that
+
+39:31.300 --> 39:38.020
+the payload bay doors are very large they're 60 feet long they are made of graphite epoxy
+
+39:38.820 --> 39:43.860
+and they are covered since this is a cool area of the vehicle they're covered with a no-mex blanket
+
+39:43.940 --> 39:52.420
+on top just uh it looks well it looks like a blanket of no-mex there are four 15-foot panels on each side
+
+39:52.420 --> 39:59.700
+and on the back side of the doors are the radiators that we we pump free on 21 through and pump it
+
+39:59.700 --> 40:04.580
+through the cold plates where the avionics are and take out the the heat that's generated inside the
+
+40:04.580 --> 40:10.660
+orbiter two of the radiator panels on each side can also be deployed and you see that in the left
+
+40:10.660 --> 40:14.980
+hand you can also see it in the right hand version they can be differentially deployed from the
+
+40:14.980 --> 40:21.300
+doors and that gives you radiation out both sides both surfaces and we have done that in orbit however
+
+40:21.300 --> 40:25.780
+most of the heat loads that we have worked with we've been able to leave the two forward panels on
+
+40:25.780 --> 40:30.820
+each side undeploied and when we don't have to have it we prefer not to because it's just one less
+
+40:30.820 --> 40:38.500
+thing that could go wrong if you had to re-enter rather fast and you didn't have time to do an EVA
+
+40:38.500 --> 40:43.380
+go out and cut the links there are contingency ways to get doors closed and all by going EVA
+
+40:43.380 --> 40:49.540
+but you need a little time uh these devices have worked very well the other the area that we had
+
+40:49.540 --> 40:54.820
+you're going to hear me say a little bit about it these latches around the air bulkhead here
+
+40:55.380 --> 41:00.580
+there's some forward latches and the latches now in the center line were a real uh
+
+41:00.580 --> 41:06.100
+kinematic problem of saw they worked well we've had one problem and I'll mention that in a
+
+41:06.100 --> 41:13.540
+in just a minute I'll spend a few charts on the thermal protection system which is a subject
+
+41:13.540 --> 41:19.460
+in itself for this vehicle maybe I should have said for to some of you that may not know this
+
+41:19.460 --> 41:24.660
+vehicle is fully reusable and it's the first spaceship that we've ever built for that purpose
+
+41:25.220 --> 41:28.980
+in fact it's first space ship that's ever been built anywhere for that purpose the
+
+41:29.620 --> 41:39.140
+some interesting figures the mercury program, Germany, Apollo all used a blade even material
+
+41:39.140 --> 41:45.220
+because it was a one-time use and it heated and sloughed off and that was it when we started
+
+41:45.220 --> 41:51.140
+talking about the shuttle we had to do something that could be reusable without this giant turnaround
+
+41:51.220 --> 42:00.980
+problem of trying to replace a bladers the decision was made to use a rigidized silica fiber
+
+42:00.980 --> 42:08.020
+its glass you hold one of these tiles which is typically six inches or so square anywhere from two
+
+42:08.020 --> 42:12.420
+to three inches in thickness and it feels like a piece of star foam it's very very light
+
+42:14.100 --> 42:20.100
+and if you look at the next chart which is not a very good picture I wanted to try to get something
+
+42:20.340 --> 42:26.340
+show you what the cross section looked like the rigidized fiber that's shown here this is a
+
+42:26.340 --> 42:39.060
+microscopic view and and the rigidized fiber is a 99.6 percent pure silica and it's in a cut fiber
+
+42:39.060 --> 42:47.300
+link that's mixed with liquid silica which we call ludox to make a slurry it is then pressed
+
+42:48.020 --> 42:52.420
+into the right volume to get the density we want which is about nine pounds per cubic foot
+
+42:53.460 --> 42:58.580
+and it's then baked at 2400 degrees for some length of time and it forms a very hard brick
+
+42:59.140 --> 43:04.580
+of this very light material it's then machined with a mission of a milling machine
+
+43:05.220 --> 43:11.700
+computerized to very tight tolerances because it must match a smoozer must make a smooth
+
+43:11.700 --> 43:18.180
+service on the outside of the vehicle the the coating that we put over that because this is
+
+43:18.180 --> 43:24.580
+very soft you can poke your finger into it is a liquid glass coating borosilicate by name which
+
+43:24.580 --> 43:28.660
+doesn't mean much to me I don't know what it means much to you or not but it's borosilicate
+
+43:28.660 --> 43:35.380
+and it is a liquid glass that makes it gives the tile a very hard surface you can poke through it
+
+43:35.380 --> 43:40.980
+with a sharp fingernail or a screwdriver but it is it gives it a hard surface
+
+43:42.180 --> 43:47.940
+uh and then these are bonded to the I'm not sure you have that sign it's bonded to the aluminum
+
+43:47.940 --> 43:56.340
+uh directly the uh the tile is been in later vehicles replaced by quite a lot of what we call
+
+43:56.340 --> 44:03.940
+advanced flexible reusable surface insulation after isy and that is a more of a blanket material
+
+44:03.940 --> 44:10.020
+we could do that because in the earlier flights we had a lot of data taken on temperatures and as
+
+44:10.020 --> 44:16.980
+most uh thermal engineers like most mechanical uh engineers there was some conservative estimates
+
+44:16.980 --> 44:22.020
+made and we found some areas of the vehicle not as hot as we had expected so we were able to go
+
+44:22.020 --> 44:28.340
+to this more clock like insulation but we were only able to catch uh discovery which we've just
+
+44:28.340 --> 44:35.140
+flown N104 so what we've and Atlantis come so what we've got now is we've got a fleet of vehicles
+
+44:35.140 --> 44:40.900
+that have different uh they look pretty much to the eyeball constant but there's actually quite a
+
+44:40.900 --> 44:48.500
+lot of difference in the outside protection of thermal purposes the uh I know you can't read the
+
+44:48.500 --> 44:54.660
+chart on the the left you can't read the fine numbers but that's a it's a picture of the upper
+
+44:54.660 --> 45:00.980
+part of it is the lower surface view uh in on the top of that vehicle and the the bottom half of
+
+45:01.540 --> 45:08.260
+that plan form is the upper surface view and those are isotherms that uh for the worst case design
+
+45:08.260 --> 45:13.780
+mission that we can think of and let me just summarize by saying the lower lower forward fuselage
+
+45:13.780 --> 45:20.740
+right up in the chin area is the hottest that peaks up around 2300 degrees uh the lower wing is
+
+45:20.740 --> 45:26.500
+about 2,000 the lower body flaps that around that same 2400 you'll see some higher figures on this
+
+45:26.500 --> 45:32.740
+chart but again that's this extreme design mission that we that we've designed our system to I
+
+45:32.740 --> 45:38.900
+don't think we'll ever see it um there are hotter temperatures and if you look on the next chart
+
+45:40.580 --> 45:45.700
+the reinforced carbon carbon is used on the very tip of the nose on the leading edge of the wing
+
+45:46.500 --> 45:53.540
+primarily and those areas are greater than 2300 degrees and there we had to go to this
+
+45:53.540 --> 45:58.900
+reinforced carbon carbon it's a laminated structure it's coated with silicon carbide
+
+45:59.940 --> 46:08.580
+to keep it from oxidizing and we are slowly trying to let me say lighten those panels by
+
+46:08.580 --> 46:13.780
+several techniques and I think in in the future we will be able to go back and retrofit
+
+46:13.780 --> 46:19.380
+those leading edge panels in the nose with lighter material that composite high-spring
+
+46:20.100 --> 46:25.940
+um technology is growing by leaps and bounds as most of you are probably aware and there are
+
+46:25.940 --> 46:30.100
+some materials now that are beginning to look very promising but the reinforced carbon carbon
+
+46:30.100 --> 46:35.620
+has worked very very well on the bottom of the vehicle look at the top half of the right hand
+
+46:35.620 --> 46:42.980
+picture there where it says lower surface is most all black tile the black tile is got the coating
+
+46:42.980 --> 46:47.700
+it's a glass coating as I mentioned earlier but it takes the higher temperatures it'll take
+
+46:47.700 --> 46:56.260
+the between 1200 and and about 2300 degrees temperature the crosshatch area on the if you look
+
+46:56.260 --> 47:03.460
+at the bottom half of the top chart on the right or the top platform is mostly white tile and
+
+47:03.460 --> 47:10.580
+that tile has a different coating which is a little lighter and it's good from about 700 to 1200
+
+47:10.580 --> 47:16.820
+degrees and that's in the area that's the area where we have replaced a lot of that material on 103
+
+47:16.820 --> 47:21.940
+I'm sorry I used the vehicle numbers on discovery and in lannis we have replaced a lot of that
+
+47:21.940 --> 47:29.220
+white tile with this flexible claw and then we've got a few places where we had to use metallic
+
+47:29.220 --> 47:37.300
+closeouts because we just couldn't do it any other way now next chart the tile is laid up like
+
+47:37.300 --> 47:42.100
+this the one on the right incidentally the shot on the right here is the bottom of the vehicle as
+
+47:42.180 --> 47:47.940
+is being hoisted in the vertical assembly building and I showed it just to I threw it in here it's a
+
+47:47.940 --> 47:52.660
+little dark but to show you that that's all black tile that's all the high insulation tile and you
+
+47:52.660 --> 47:59.620
+can see although you can't see the detail that's this area where the external tank doors that have
+
+47:59.620 --> 48:04.580
+to get closed properly are on the open here because we're getting ready to make it to the external
+
+48:04.580 --> 48:11.460
+tank on the left you will see the the tile the way it's put together it's these are about six
+
+48:11.460 --> 48:18.580
+inch blocks the reason the these things have no essentially flexibility to them but the skin
+
+48:18.580 --> 48:27.700
+had to give so they're put together with a certain gap in a certain step in there step tolerance
+
+48:27.700 --> 48:33.860
+between one tile to the next very tight and we did that so that the tile could could move if you
+
+48:33.860 --> 48:38.900
+will and we had to put the gap in because if we didn't they were buddy that together as they bent
+
+48:38.900 --> 48:47.860
+they would break on each other so we the gap was varies from about 45,000ths of an inch to about
+
+48:48.580 --> 48:56.420
+20,000ths of an inch the step tolerance depends on which view you decide the vehicle you're on
+
+48:56.420 --> 49:01.220
+before it says step here on the on the upper portion of this right in here if you see that
+
+49:02.500 --> 49:08.020
+varies those tolerances vary from about 17,000 to 50,000ths and again depending on the heat
+
+49:09.380 --> 49:20.020
+influx there it's bonded let me the aluminum is first painted with RTV standard pretty much
+
+49:20.020 --> 49:26.820
+standard RTV adhesive there's then a strain isolation pad and that's a no-max pad
+
+49:27.700 --> 49:34.180
+it's roughly 10th of an inch thicker so and that's in order to let the vehicle flex again without
+
+49:34.180 --> 49:42.100
+breaking the bond that's put on next and then RTV is painted on top of that and the tile is bonded
+
+49:42.100 --> 49:49.940
+onto to the to the RTV there so you have you have aluminum you have RTV you have a strain isolation
+
+49:49.940 --> 49:56.980
+pad RTV and then the tile we bond these things and then we do pull test on them and we actually
+
+49:56.980 --> 50:03.700
+listen with a highly sensitive sonic device to see if we can hear any breaking and there's a certain
+
+50:03.700 --> 50:10.660
+number of and I don't know the number but it's a certain number of clicks per second that is acceptable
+
+50:11.700 --> 50:18.900
+frankly it makes me nervous to have any clicks but but there is an acceptable standard that as you
+
+50:18.900 --> 50:25.060
+start to pull on it and they listen with a sonic device after it's cured it has to pass an inspection
+
+50:25.780 --> 50:31.700
+we have had super luck after we got past the first vehicle with this technique the first technique
+
+50:31.700 --> 50:37.700
+or the the first vehicle was very much of a learning experience many many errors made and as a matter
+
+50:37.700 --> 50:45.060
+of fact Columbia had essentially all of its tiles 32,000 of them put on it one time they all came off
+
+50:45.060 --> 50:50.580
+and and not at once but we kept finding problems and we took them all off and put them back on again
+
+50:50.580 --> 50:55.700
+and that's one reason the shuttle was it's probably the primary reason the shuttle was 18 months to two
+
+50:55.700 --> 51:01.620
+years late getting off the ground because of the tile problem the other vehicles have gone very very
+
+51:01.620 --> 51:12.580
+easily and I think this is one that's behind us the I might just mention discovery in Atlantis the
+
+51:12.580 --> 51:23.460
+last two orbiters have only 21,000 tile on them the 102 or Columbia and Challenger had over 30,000
+
+51:24.420 --> 51:30.820
+so we've made quite an improvement in getting away from the the detail the replacement of these tiles
+
+51:31.540 --> 51:36.020
+okay let's look at some typical problems that we've had and this is certainly not all of them
+
+51:36.580 --> 51:44.740
+and I do this with little trepidation my friends in the American press tend to hang around in this area a
+
+51:44.740 --> 51:52.020
+lot and many of the things that that I'm going to show you here have been relatively minor some not
+
+51:52.020 --> 51:58.100
+some minor and but all in all I think we've learned a great deal from solving these things
+
+51:59.060 --> 52:03.060
+one that you wouldn't think of and this I'll have to orient you a little bit you're looking at
+
+52:03.060 --> 52:09.140
+the launch pad and you'll remember that I told you that as we put this mobile launcher down
+
+52:09.780 --> 52:14.100
+this is these are the flame trenches this is where the solid rocket loosters exhausts our gases
+
+52:14.100 --> 52:20.420
+down into the flame trench and on STS-1 when we flew it the first time we got a tremendous
+
+52:20.420 --> 52:27.220
+resurgence of energy from when the SRB is ignited to the point that it completely it popped and
+
+52:27.220 --> 52:33.220
+buckled the F-teach shield around the main engines the engines bells were all knocked around and so
+
+52:33.220 --> 52:40.500
+forth and it was we had had to extrapolate from a one six scale model and we missed it by a lot
+
+52:41.380 --> 52:48.500
+so what we did and it was obvious the pictures of the lift off of STS-1 the detail engineering
+
+52:48.500 --> 52:54.740
+pictures in this area were frightening because you could see the engine bells deform and you
+
+52:54.740 --> 53:01.220
+could see the F-teach shield pop a couple of times so a very simple solution this was laid
+
+53:01.220 --> 53:07.060
+this in focus at Johnson and at the Kennedy Space Center this is a close-up you can see it not too
+
+53:07.060 --> 53:13.620
+well here this is before we put this device in but here these are water troughs and let me go to
+
+53:13.620 --> 53:19.780
+the next slide and I'll show you this is parachute type material and that's water you see in
+
+53:19.780 --> 53:26.820
+there about a foot deep that we just laid across the hole and the purpose is is that when the SRB
+
+53:26.820 --> 53:32.100
+is ignited you absorb that energy with this water it just blows this stuff completely away it's gone
+
+53:33.540 --> 53:39.780
+almost vaporizes it but it was a very simple fix we wrestled with all kinds of ways to to absorb
+
+53:39.780 --> 53:44.580
+that energy so that it would not go all the way down to the bottom of the flame trench and rebound
+
+53:44.580 --> 53:54.260
+into the orbiter and as it turns out this is worked very nicely I was strictly skeptical of this
+
+53:54.260 --> 53:58.100
+I didn't think it would work at all but the engineers kept running the figures and they said yeah
+
+53:58.100 --> 54:03.140
+yeah it works so sure enough we tried it and it has now we've got some very exotic ways to fix it
+
+54:03.140 --> 54:08.260
+later with water sprays and all that sort of thing but this thing works so well and it's so
+
+54:08.260 --> 54:11.780
+inexpensive I suspect we'll be stuck with this for a long time it's very reliable
+
+54:13.700 --> 54:18.580
+but again it's a it's a problem that you wouldn't even think about and there's no way as most of you
+
+54:18.580 --> 54:23.700
+have that have been involved in trying to scale large things when you try to scale them down or
+
+54:23.700 --> 54:28.340
+when you take something small about scale it out scaling errors can really get to you and that's
+
+54:28.340 --> 54:36.980
+what that's what really happened here okay here was a problem we had on STS 3 and STS 4
+
+54:37.940 --> 54:42.580
+3rd and 4th fire the shuttle we tried to close the payload bay doors and
+
+54:43.300 --> 54:47.540
+lo and behold the first time they tried it there was an interference and it didn't work
+
+54:49.380 --> 54:56.020
+and as a matter of fact the latches on that afbal kid which is this area right in here would not
+
+54:56.020 --> 55:01.300
+make up they would not the door was not down far enough to make up the fellows looked at it
+
+55:01.380 --> 55:08.900
+Thailand said now what have we done to this vehicle well we had some some reasons to be in a tail
+
+55:08.900 --> 55:14.500
+sun attitude tail looking at the sun for a long long period and then we also had a reason to be
+
+55:14.500 --> 55:21.540
+no sun attitude and what had happened is the vehicle had gotten very cold on the top and it actually
+
+55:21.540 --> 55:29.060
+made the orbiter if I can exaggerate a bit shaped a little bit like a banana like this same thing
+
+55:29.060 --> 55:34.900
+happened on STS 4 due to another factor and I'll show you behind a minute but all we had to do
+
+55:34.900 --> 55:40.900
+is we just rotated the vehicle and exposed it to the sun for about four hours in the vehicle
+
+55:40.900 --> 55:46.740
+straight and back out and then we could get the doors closed since then we are very careful to
+
+55:46.740 --> 55:52.020
+ensure that that we do the proper thermal conditioning prior to entry to make sure that the
+
+55:52.980 --> 56:01.380
+the vehicle is pretty much straight let me go to the next subject another problem
+
+56:02.420 --> 56:06.100
+now this is one that in our press and I don't know what you've had it over here now but our press
+
+56:06.100 --> 56:12.420
+has completely blown this quote problem out of out of proportion and it's most of you that are
+
+56:12.420 --> 56:18.180
+probably dealt with large aircraft with small gears breaks our problem because you've got to
+
+56:18.180 --> 56:25.060
+dissipate an awful lot of energy into some fairly small area this system those statters there's
+
+56:25.060 --> 56:32.500
+three of them the rotors there's four and they rotate concurrently inside each other and then
+
+56:32.500 --> 56:39.780
+there's eight pucks that is just a big disc brake eight pucks push on one side and there are four
+
+56:39.780 --> 56:44.660
+pucks on each of two hydraulic systems so in case you lose a hydraulic system you still got
+
+56:44.660 --> 56:51.940
+half your brakes and what has happened is we've never had a problem with the brakes stopping the
+
+56:51.940 --> 56:56.260
+vehicle they've always stopped the vehicle fine but it is a turnaround problem because we were
+
+56:56.260 --> 57:03.860
+picking up damage to the to the rotors primarily and I'll show you a picture one and it's a turnaround
+
+57:03.860 --> 57:08.820
+issue we've had to take the brakes off every time we've flown and take a look at them and expect them
+
+57:08.820 --> 57:13.140
+carefully we've made a few changes one of the problems was that axle was deflecting
+
+57:14.100 --> 57:19.700
+quite a lot it was putting some funny torques into the rotors and statters so we've stiffened
+
+57:19.700 --> 57:27.060
+that up with some saddles and we're seeing less and less damage all the time in fact the last flight
+
+57:27.060 --> 57:33.460
+which this is not a picture but the last flight we saw virtually no damage at all you can see here a
+
+57:33.460 --> 57:39.380
+clip and I'm going to show you different being a minute but there's a clip meant right here these
+
+57:40.340 --> 57:47.940
+these are the rotors one two three four and one of these clips here is bent I'll show you a picture
+
+57:47.940 --> 57:56.340
+from the side now this looks pretty bad these are burillion discs and they are faced with with
+
+57:56.340 --> 58:03.940
+carbon to between the pads if you will and this was the worst break with the worst rotor that we
+
+58:03.940 --> 58:10.340
+had you can see that the burillion actually here I can't get my barrel that how is that going
+
+58:10.340 --> 58:17.300
+off right here actually broke and we had another brake here in the burillion we had a number of clips
+
+58:17.300 --> 58:24.340
+and all that were destroyed but even on this flight the braking weren't just fine and in fact
+
+58:24.340 --> 58:30.660
+it's all contained so it can't go anywhere but it is a turnaround issue we think we're on the
+
+58:31.300 --> 58:38.260
+that's one that we haven't completely fixed yet on the last flight we had just a little bit of
+
+58:39.060 --> 58:48.100
+galling on this on these carbon facing plates if you will and we had a couple of rivets that had
+
+58:48.100 --> 58:54.500
+broken but that's one of the when I say a year from now I think we'll have some of the nagging things
+
+58:54.980 --> 59:00.820
+taken out I think that's one of the ones that will get completely solved now the next one is an
+
+59:00.820 --> 59:07.700
+interesting one I use the shot on the left here just to show you where it's a little bit like being
+
+59:07.700 --> 59:14.500
+up close to an elephant you can't tell what you're looking at right here is the area that on the
+
+59:14.500 --> 59:20.180
+first flight we received a big surprise it's on that ohm's pod there's the pod and right at the
+
+59:20.180 --> 59:25.540
+base of this right here which this is the vehicle sitting on the ground if you look right here you'll
+
+59:25.540 --> 59:33.700
+see a discolored area these ohm's pods are also graphite skined graphite epoxy skin now let me get
+
+59:33.700 --> 59:41.460
+you should move you on a little bit closer there's the corner of the pod and there was flow coming
+
+59:41.460 --> 59:47.860
+evidently during the entry flow was coming up through this body flap area and impinging hot gas
+
+59:48.820 --> 59:55.380
+in a way we didn't think was going to happen this caused delamination of the graphite epoxy
+
+59:57.140 --> 01:00:03.380
+quite a bit of burning although it didn't cause any any structural damage inside we did have to
+
+01:00:03.380 --> 01:00:08.340
+cut that whole section out of this ohm's pod we had to remove the pod and they're just now getting
+
+01:00:08.340 --> 01:00:15.380
+it back to service they had to cut it out and replay lay up the the graphite epoxy again and the way
+
+01:00:15.380 --> 01:00:22.340
+we fixed it is that we just placed 25 we put 25 tile in this area we didn't try to stop the
+
+01:00:22.340 --> 01:00:28.340
+flow that would have required a major design redesign or some type but we just covered this area with
+
+01:00:28.340 --> 01:00:36.420
+with tile black tile and it hasn't been a problem since another problem we had looking at the
+
+01:00:36.420 --> 01:00:44.580
+rear end of the vehicle sitting on the ground there is a nozzle right here a thruster we call it
+
+01:00:44.580 --> 01:00:51.300
+a vernier thruster and it's very low thrust it's only 25 pound is a 25 pounder these big primary
+
+01:00:51.300 --> 01:00:57.380
+thrusters for controlling attitude or 875 pounders and we really don't use them very much
+
+01:00:57.380 --> 01:01:01.620
+except near the entry on orbit they're just they're like somebody hits the vehicle with a hammer
+
+01:01:01.620 --> 01:01:07.860
+every time they fire they're just they're large and they're powerful so we use these little 25 pound
+
+01:01:07.860 --> 01:01:12.420
+vernier thrusters and this thing exhaust this is one of the down firing thrusters out of this
+
+01:01:12.420 --> 01:01:18.500
+own spot and it exhausts down and if you can see a light area right in here on this is the body
+
+01:01:18.500 --> 01:01:23.700
+flap and you these are black tile back in here and you can see a light area and if you look over here
+
+01:01:23.700 --> 01:01:30.580
+you can see where this exhaust products were hitting on top of the body flap and it was peeling off
+
+01:01:30.580 --> 01:01:36.260
+the it was just literally taking the coating off the off the tile so what we did very simple fix
+
+01:01:36.260 --> 01:01:42.260
+again to show you don't always have to be really excited we just have in later vehicles we
+
+01:01:43.220 --> 01:01:50.820
+butter if you will our TV 10th of an inch thick over the top of this entire area right in here
+
+01:01:50.820 --> 01:01:56.100
+and just let the stuffing pinch and the rtv protects the coating of the tile and
+
+01:01:57.220 --> 01:02:03.700
+and it lines up being a super fix with very simple process they just painted on almost like a brush
+
+01:02:03.780 --> 01:02:09.940
+and we look at it each flight and inspect it and then replace it if we have to we have another tile problem
+
+01:02:12.980 --> 01:02:19.540
+this is meant to be a continuous picture so I didn't quite make it if you'll notice here on
+
+01:02:19.540 --> 01:02:25.860
+sds 2 there's there's actually six coatings on tiles this was sitting on the lake bed after the
+
+01:02:25.860 --> 01:02:36.420
+landing one two three four five six before this flight we had some particularly heavy rain and we had
+
+01:02:37.620 --> 01:02:42.740
+used essentially scotch guard to waterproof the tiles in fact it's it was actually done out of
+
+01:02:42.740 --> 01:02:49.140
+spray cans which was the technique we were going to use because it was simple we knew we after
+
+01:02:49.140 --> 01:02:53.860
+the heat of reentry it burns off the scotch guards so we knew that we would have to to do something
+
+01:02:53.860 --> 01:02:59.540
+flight to flight but we got it scotch guard and then we found out that it you know we had some very
+
+01:02:59.540 --> 01:03:03.540
+very heavy rain hold we're sitting on the pad and what happened is we actually trapped we got a
+
+01:03:03.540 --> 01:03:09.380
+little leakage in some tiles and we trapped some water under the coating and then in the mission during
+
+01:03:09.380 --> 01:03:15.940
+the mission this area because of the attitude we were in got down below minus 100 degrees f
+
+01:03:16.980 --> 01:03:23.220
+and with the freezing of that water with no way to get out quickly it literally popped the top
+
+01:03:23.220 --> 01:03:29.540
+off these black tile I got a picture of the close up here you can you can see how it just peeled off the
+
+01:03:30.180 --> 01:03:37.300
+the coating and very jagged shapes and it was because of the trapped water and what we've done since then
+
+01:03:38.500 --> 01:03:43.380
+is we developed a new method of waterproofing and we actually waterproof internal to the tile
+
+01:03:43.380 --> 01:03:49.860
+we actually went around and on each tile put a hyperdermic type of needle through the coating
+
+01:03:49.860 --> 01:03:56.660
+very small hole and injected hexa-methyl dizalazine and all of that means anything to you either it
+
+01:03:56.660 --> 01:04:03.140
+doesn't make but I tried to find a commercial main point there isn't it but this material actually
+
+01:04:03.140 --> 01:04:09.620
+is absorbed by the tile through the small hole and we're using the same hole each flight now there's
+
+01:04:09.620 --> 01:04:14.820
+actually a machine that goes through and and puts this thing in and it's actually worked very well
+
+01:04:14.820 --> 01:04:22.100
+as rapid it's they can they can do it very fast again you just can't stand now that it on this
+
+01:04:22.100 --> 01:04:27.300
+leading edge if you look closer it got hot enough that there's some swamping of the tile but it
+
+01:04:27.300 --> 01:04:32.500
+didn't hurt anything behind it there are some areas particularly in that chin area where you couldn't
+
+01:04:32.500 --> 01:04:38.500
+take this kind of damage but you could take it and it would do some damage you probably live through
+
+01:04:39.460 --> 01:04:48.260
+but you sure would hurt the vehicle in the process final very own tile if you look on the left in
+
+01:04:48.260 --> 01:04:56.340
+this area this looks a little bit like salt and pepper area and what here what happened is sitting
+
+01:04:56.340 --> 01:05:03.700
+on the pad the night before we were to launch STS-4 we had a typical Florida hailstorm and it
+
+01:05:03.700 --> 01:05:10.180
+actually was enough to crack this coating on these tiles and and this is pretty much what it
+
+01:05:10.180 --> 01:05:16.420
+looked like before we launched we it would have been a terrible thing to have to stop and repair
+
+01:05:16.420 --> 01:05:22.340
+all this tile so what we did and this is a shot on the bottom side and it looks kind of messy but
+
+01:05:22.340 --> 01:05:28.260
+it worked we actually painted with this liquid silica lute ox just painted over it to kind of
+
+01:05:28.260 --> 01:05:34.020
+give it a glass finish it was mostly clear and as a result it came through the entry just fine
+
+01:05:34.020 --> 01:05:38.420
+all of our thermal experts said it wouldn't it did and we ended up out of all this hail damage
+
+01:05:38.420 --> 01:05:43.620
+only having to replace two tiles and we did we paired the rest of them in place with a black coating
+
+01:05:43.620 --> 01:05:51.780
+after the flight one more subject on tile I'm sorry did have one more and this was in an area
+
+01:05:51.780 --> 01:05:56.420
+between the elevon on this vehicle is split and we knew there was going to be hot glass
+
+01:05:56.420 --> 01:06:02.260
+gases flowing through here so we went to an ablater because the estimates were the temperature
+
+01:06:03.540 --> 01:06:09.300
+was going to get hot enough and you can see actually it really ablated in here and then but we found
+
+01:06:09.300 --> 01:06:15.220
+that some of the fellows thought that we could replace that and we did on later vehicles and we
+
+01:06:15.220 --> 01:06:21.620
+now retrofit them all with with some high density tile slightly higher than nine pounds per square
+
+01:06:21.620 --> 01:06:28.260
+foot and they did it up we saved $550,000 of flight and quite a bit of weight that's a good kind
+
+01:06:28.260 --> 01:06:37.620
+of problem so I didn't cause anything to save us some money in summary I think that that we've
+
+01:06:37.620 --> 01:06:42.740
+got a system the space shuttle that works very well and I think it's going to get from here on
+
+01:06:42.740 --> 01:06:50.820
+nothing but better I mentioned that we were in an infant stage we've launched 12 flights since 1981
+
+01:06:50.820 --> 01:06:55.940
+we launched 12 more in the next 12 months we're going to be flying once a month for the next 12
+
+01:06:55.940 --> 01:07:01.940
+months if we can all keep our sanity and our families and everything else from going crazy
+
+01:07:03.620 --> 01:07:10.180
+it'll be an interesting year for us we're planning to go to a 24 flight rate per year in 1986
+
+01:07:10.180 --> 01:07:16.500
+87 time frame so about every payday we'll be launching a mission shuttle mission in the space
+
+01:07:17.220 --> 01:07:21.940
+and that's a terrible thought to think of having to do it that often but we're ready for it
+
+01:07:23.380 --> 01:07:28.980
+I guess one person might some person people might ask why you doing it and well for one thing we
+
+01:07:28.980 --> 01:07:34.820
+think it's a very capable and flexible system but there's another reason and that is and I'm just
+
+01:07:34.820 --> 01:07:38.820
+going to tickle you with this one I'm not going to talk much about it but that's because of this
+
+01:07:38.820 --> 01:07:45.620
+device the space station this is the this is hot off the press as I left Houston I brought it with me
+
+01:07:45.620 --> 01:07:51.540
+shows an orbiter dock to what we think is going to be close to the final configuration for space
+
+01:07:51.540 --> 01:08:01.940
+station we call it the power tower because it's a rather long a long spine if you will that holds
+
+01:08:01.940 --> 01:08:08.340
+solar panels radiators these are radiators right here to radiate the heat and all the living modules
+
+01:08:08.340 --> 01:08:14.100
+are down in this area there's a large communication platform you see the shuttle docked up to it here
+
+01:08:15.780 --> 01:08:23.300
+with the space station I think we'll have the infrastructure established for a truly operational
+
+01:08:23.300 --> 01:08:28.980
+system shuttle without station and station without shuttle really don't mix too well in fact they're
+
+01:08:28.980 --> 01:08:34.500
+not either one of them are ends in themselves but together they form a very very capable
+
+01:08:36.180 --> 01:08:42.100
+thing for the for the free world to have as a unit we will use this thing as a waste station
+
+01:08:42.980 --> 01:08:48.020
+we will station satellites there to be later launched on to higher altitudes we will use it for
+
+01:08:48.020 --> 01:08:56.180
+a scientific observatory we'll use it for metals or materials testing and we'll use it for
+
+01:08:56.180 --> 01:09:01.380
+maintaining a preeminence in a free world for for space technology I was telling someone
+
+01:09:01.380 --> 01:09:07.540
+earlier this afternoon with the shuttle we pretty well kind of built the the highway if you will
+
+01:09:08.180 --> 01:09:14.260
+and now we've got to build some some filling stations petrol stations and we've got to build some
+
+01:09:14.260 --> 01:09:22.020
+places to stop and do some things without just these little short bursts of of man flight certainly
+
+01:09:22.020 --> 01:09:26.340
+the Russians are doing that they're they're breached strengthening it they're doing it with breached
+
+01:09:26.340 --> 01:09:31.620
+strength but they are pretty much living in space now all along and they are learning a great deal
+
+01:09:31.620 --> 01:09:37.620
+I know they must be and we feel that it's imperative that we do the same thing the
+
+01:09:38.820 --> 01:09:47.300
+international involvement on the space station is going to be great the in by that I mean large
+
+01:09:48.180 --> 01:09:53.220
+the president has invited international participation from our friends we're seeing a lot of
+
+01:09:53.220 --> 01:10:00.180
+interest generated amongst the east of states east as an organization and at least from from
+
+01:10:00.180 --> 01:10:08.900
+Germany as a unilateral let me say push the Japanese are are very interested in a very aggressive
+
+01:10:08.900 --> 01:10:18.340
+they're spending a lot of time with us in Houston I hope that the UK will take the same steps
+
+01:10:19.380 --> 01:10:25.540
+this country in my thinking has been a a engineering leader for many many years
+
+01:10:26.500 --> 01:10:31.540
+you've had some of the best ideas you've had some of the best minds put together to do things
+
+01:10:31.540 --> 01:10:39.620
+it would really be I think good for us it would be good for the pre-world to use your brain power
+
+01:10:39.620 --> 01:10:45.780
+in building a device like this it's probably a 30 to 50 year facility and that's it should be
+
+01:10:45.780 --> 01:10:52.020
+thought of as a facility it's not a spaceship and we need to breast best best brains that we can
+
+01:10:52.020 --> 01:10:58.980
+bring to bear on the subject I know that many of you are are pushing in that direction I know
+
+01:10:58.980 --> 01:11:04.100
+there's like in our country that's never easy to push these kind of rather far reaching ideas
+
+01:11:04.820 --> 01:11:11.300
+but I hope that that there is some impetus amongst the technical community that can convince the
+
+01:11:11.300 --> 01:11:17.940
+political community in your country to participate in a large way and we would welcome your participation
+
+01:11:17.940 --> 01:11:22.580
+and hope we see it with that I will close and I thank you very much
+
+01:11:25.220 --> 01:11:35.860
+we are goal for main engine start 8 7 6 we have main engine start 3 2 1 solid motor ignition
+
+01:11:35.860 --> 01:11:41.860
+and lift off lift off a challenger in the first flight to repair a satellite in space to
+
+01:11:41.860 --> 01:11:49.380
+clear the challenge
+

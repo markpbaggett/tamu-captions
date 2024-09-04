@@ -1,0 +1,3272 @@
+WEBVTT
+
+00:00.000 --> 00:03.500
+Good morning.
+
+00:03.500 --> 00:05.260
+My name is Dan Nebrig.
+
+00:05.260 --> 00:07.700
+I'm the executive assistant to our center director.
+
+00:07.700 --> 00:10.040
+And on his behalf, I would like to welcome you
+
+00:10.040 --> 00:13.660
+to this, the third in a series of 20th anniversary
+
+00:13.660 --> 00:17.820
+of Apollo lectures and discussions that we've been having.
+
+00:17.820 --> 00:20.980
+The first two dealt with what we knew about the moon
+
+00:20.980 --> 00:23.160
+before Apollo, and then yesterday
+
+00:23.160 --> 00:27.540
+with the technical planning for the Apollo missions.
+
+00:27.540 --> 00:31.020
+Today's sessions cover an aspect of our work here
+
+00:31.020 --> 00:33.340
+that is unique to the Johnson Space Center,
+
+00:33.340 --> 00:36.700
+that of mission control, and more importantly,
+
+00:36.700 --> 00:39.620
+about the planning for the operation of those missions
+
+00:39.620 --> 00:43.300
+that are so essential to the success of the missions.
+
+00:43.300 --> 00:44.940
+Each of our panelists today is you'd
+
+00:44.940 --> 00:48.100
+imminently qualified to discuss the topics
+
+00:48.100 --> 00:51.340
+because they have all served as flight directors
+
+00:51.340 --> 00:54.780
+or mission controllers during the Apollo program.
+
+00:54.780 --> 00:56.220
+Now, of course, later in their life,
+
+00:56.220 --> 00:58.460
+they went on to other ancillary positions
+
+00:58.460 --> 01:00.740
+like center director and program manager
+
+01:00.740 --> 01:03.020
+and a few unimportant jobs like that.
+
+01:03.020 --> 01:05.260
+But I'm sure they would all consider their time
+
+01:05.260 --> 01:10.180
+in mission control to be among the highlights of their career.
+
+01:10.180 --> 01:12.980
+Our moderator today is also imminently qualified
+
+01:12.980 --> 01:14.460
+for this subject.
+
+01:14.460 --> 01:18.660
+Dr. Joe Allen received his PhD from Yale University,
+
+01:18.660 --> 01:22.580
+and in 1967 was selected as an astronaut.
+
+01:22.580 --> 01:26.900
+Joe was the on the support crew for Apollo 15,
+
+01:26.900 --> 01:29.220
+where he served as the mission scientist.
+
+01:29.220 --> 01:34.340
+He was Capcom for STS-1, and then flew as a mission specialist
+
+01:34.340 --> 01:37.260
+on STS-5 and 51A.
+
+01:37.260 --> 01:41.260
+So he has qualifications from both the ground and flight
+
+01:41.260 --> 01:43.180
+to serve on this panel.
+
+01:43.180 --> 01:45.500
+I'm sure you've all seen pictures of Joe
+
+01:45.500 --> 01:47.860
+tooling around in space in his John to EMU
+
+01:47.860 --> 01:51.660
+rescuing distress satellites as we did on 51A.
+
+01:51.660 --> 01:53.820
+He is currently the president of space industries
+
+01:53.820 --> 01:55.260
+incorporated in here in Houston.
+
+01:55.260 --> 01:57.100
+So please welcome Dr. Joe Allen.
+
+01:57.100 --> 02:00.860
+APPLAUSE
+
+02:00.860 --> 02:01.860
+Thank you.
+
+02:01.860 --> 02:04.060
+Thank you.
+
+02:04.060 --> 02:08.700
+Dan, thank you very much, and welcome, everyone.
+
+02:08.700 --> 02:12.380
+I'm pleased to be the moderator today.
+
+02:12.380 --> 02:14.940
+Every group of flight directors needs moderation,
+
+02:14.940 --> 02:19.940
+and I've been given that assignment, and I welcome it.
+
+02:19.940 --> 02:21.420
+I appreciate it very much.
+
+02:21.420 --> 02:27.780
+As Dan said, I was at NASA here at the Johnson Space Center
+
+02:27.780 --> 02:29.140
+for a number of years.
+
+02:29.140 --> 02:33.660
+And I think my main qualification to serve as a referee today
+
+02:33.660 --> 02:37.620
+is the fact that I was also privileged to work in the mission
+
+02:37.620 --> 02:39.420
+control for a number of years.
+
+02:39.420 --> 02:41.340
+It's a very interesting demanding,
+
+02:41.340 --> 02:47.500
+and more often than not an enjoyable assignment.
+
+02:47.500 --> 02:51.140
+I worked for these gentlemen on the panel
+
+02:51.140 --> 02:55.460
+who were chief flight directors during the Apollo years.
+
+02:55.460 --> 02:59.820
+And their assignment for today over the next couple of hours
+
+02:59.820 --> 03:04.700
+or so is to recollect, and I quote the instructions given
+
+03:04.700 --> 03:10.420
+to us, recollect important aspects of the missions themselves.
+
+03:10.420 --> 03:12.100
+They're eminently qualified to do that.
+
+03:12.100 --> 03:14.060
+And if they don't remember the important things,
+
+03:14.060 --> 03:17.220
+I guarantee they'll remember some of the intriguing things,
+
+03:17.220 --> 03:21.740
+and I hope some of the amusing things that occurred
+
+03:21.740 --> 03:24.140
+from the perspective of the flight directors
+
+03:24.140 --> 03:27.380
+during the Apollo missions.
+
+03:27.380 --> 03:30.340
+We're gathered really to observe these missions
+
+03:30.340 --> 03:33.820
+and to celebrate the remarkable success of them.
+
+03:33.820 --> 03:42.460
+The main intent of today's panel is to celebrate and to enjoy.
+
+03:42.460 --> 03:47.060
+And to that end, if you are curious about one or two things
+
+03:47.060 --> 03:50.780
+they don't quite explain, please hold up your hand.
+
+03:50.780 --> 03:54.300
+And starting very early, I think we'll begin with questions
+
+03:54.300 --> 03:55.020
+from the audience.
+
+03:55.020 --> 03:56.780
+And I know if you don't have questions,
+
+03:56.780 --> 03:58.900
+there are numbers of things I've wondered about
+
+03:58.900 --> 04:03.020
+that I will begin to ask about.
+
+04:03.020 --> 04:10.020
+My panel members are starting here, Dr. Glenn Loney.
+
+04:10.020 --> 04:16.060
+Glenn is from Pennsylvania, from Old Forge, Pennsylvania.
+
+04:16.060 --> 04:18.980
+He comes to the space business by way of the University
+
+04:18.980 --> 04:22.580
+of Scranton and Detroit.
+
+04:22.580 --> 04:26.580
+Glenn began not with NASA, but with NACA,
+
+04:26.580 --> 04:31.340
+the predecessor of NASA in, believe it or not, 1958.
+
+04:31.340 --> 04:38.500
+He was with the Space Task Group from 1959 to 62.
+
+04:38.500 --> 04:41.740
+He came here as one of the original founders
+
+04:41.740 --> 04:46.020
+of the Man's Spacecraft Center in 1962.
+
+04:46.020 --> 04:47.820
+He was the chief of the flight directors
+
+04:47.820 --> 04:51.500
+during many of the Apollo missions.
+
+04:51.500 --> 04:54.460
+And through the Apollo years, I went on to serve
+
+04:54.460 --> 04:56.900
+in many other capacities at NASA.
+
+04:56.900 --> 04:59.700
+And he is now the head of the Rockwell International
+
+04:59.700 --> 05:03.420
+Operations here in Houston, Texas.
+
+05:03.420 --> 05:07.700
+On Glenn's right is Cliff Charles' worth.
+
+05:07.700 --> 05:11.660
+From, I'm told, originally Minnesota, I don't quite believe it,
+
+05:11.660 --> 05:18.540
+but only briefly probably spent really much time
+
+05:18.540 --> 05:23.220
+in Mississippi came to the Man's Spacecraft Center also
+
+05:23.220 --> 05:24.740
+in 1962.
+
+05:24.740 --> 05:30.020
+Prior to that, he had been with the Army at KSE.
+
+05:30.020 --> 05:34.700
+And it was, it was a cannabral then or what?
+
+05:34.700 --> 05:36.980
+That one.
+
+05:36.980 --> 05:38.740
+I don't remember back that part.
+
+05:38.740 --> 05:50.020
+The cliff was a flight director here of 1962 through 1970.
+
+05:50.020 --> 05:53.660
+And also since that time, had many other duties, including
+
+05:53.660 --> 05:57.180
+the assignment of Deputy Director of the then Johnson Space
+
+05:57.180 --> 05:57.700
+Center.
+
+05:57.700 --> 06:02.540
+And he retired from JSC last year.
+
+06:02.540 --> 06:05.780
+Next to Cliff, Jerry Griffin.
+
+06:05.780 --> 06:06.620
+I know it's Jerry.
+
+06:06.620 --> 06:08.620
+Yeah.
+
+06:09.620 --> 06:13.260
+From Athens, Texas.
+
+06:13.260 --> 06:17.900
+Jerry went from Athens and spent an enormous amount of time
+
+06:17.900 --> 06:20.500
+at Texas, A&M.
+
+06:20.500 --> 06:26.300
+I think he's still receiving remedial instruction from there.
+
+06:26.300 --> 06:31.540
+Was a flight director beginning with Germany 11,
+
+06:31.540 --> 06:34.860
+having come to JSC in 64.
+
+06:34.860 --> 06:38.100
+And then worked most of the Apollo missions, if not.
+
+06:38.180 --> 06:42.060
+Well, I think probably all he was the lead flight director
+
+06:42.060 --> 06:44.740
+on 12, 15, and 17.
+
+06:44.740 --> 06:48.020
+He went on to many other assignments since that time,
+
+06:48.020 --> 06:50.540
+including the director of the Johnson Space Center.
+
+06:50.540 --> 06:56.820
+And he's currently with a headhunting firm here
+
+06:56.820 --> 06:59.060
+in Houston, Texas.
+
+06:59.060 --> 07:00.060
+Not yet successful.
+
+07:00.060 --> 07:02.500
+He's not found a gainful employment for me, is yet.
+
+07:02.780 --> 07:09.900
+Finally, final panelist, Steve Bales.
+
+07:09.900 --> 07:11.900
+Believe me, Steve is the youngest of the group.
+
+07:11.900 --> 07:15.740
+He was 20 years younger when Apollo landed.
+
+07:15.740 --> 07:19.700
+We all, but Steve was in his early 20s at that time.
+
+07:19.700 --> 07:22.260
+He's originally from Iowa.
+
+07:22.260 --> 07:25.380
+He went to school in Iowa.
+
+07:25.380 --> 07:29.260
+Came here immediately thereafter, I guess, in 64.
+
+07:29.260 --> 07:33.540
+It was a flight controller during Apollo known as Guido.
+
+07:33.540 --> 07:38.740
+So it was years before I knew his name actually was Bales.
+
+07:38.740 --> 07:41.740
+He's now the assistant director, program support,
+
+07:41.740 --> 07:44.340
+in the mission's operations directorate.
+
+07:44.340 --> 07:46.580
+And with that, I'll turn back to Glenn, who
+
+07:46.580 --> 07:49.460
+is the lead flight director on Apollo 7
+
+07:49.460 --> 07:51.860
+that really got the Apollo mission started.
+
+07:51.860 --> 07:52.660
+Glenn.
+
+07:52.660 --> 07:53.420
+Thank you, Joe.
+
+07:53.700 --> 07:54.700
+Thank you.
+
+07:54.700 --> 07:55.700
+APPLAUSE
+
+08:01.700 --> 08:03.780
+I've been asked to start with Apollo 7
+
+08:03.780 --> 08:07.180
+because it was the first man flight that we flew
+
+08:07.180 --> 08:09.140
+with the Apollo spacecraft.
+
+08:09.140 --> 08:11.340
+But perhaps more general than that,
+
+08:11.340 --> 08:14.380
+I would talk about it in terms of the events that
+
+08:14.380 --> 08:16.700
+led up to Apollo 7.
+
+08:16.700 --> 08:19.660
+I think in the minds of everybody here,
+
+08:19.660 --> 08:22.780
+up through and including Apollo 7,
+
+08:22.780 --> 08:24.300
+we were Earth orbit people.
+
+08:24.300 --> 08:26.740
+We were figuring out how to fly spacecraft.
+
+08:26.740 --> 08:29.180
+And I think starting after Apollo 7
+
+08:29.180 --> 08:32.980
+with the very dramatic Apollo 8, the Cliffle tell us about,
+
+08:32.980 --> 08:36.700
+we began the assault on the moon.
+
+08:36.700 --> 08:39.420
+Leading up to Apollo 7, we had a number of things
+
+08:39.420 --> 08:42.820
+happen in the program that were planned that don't get much
+
+08:42.820 --> 08:46.420
+attention and haven't been talked about much in these events.
+
+08:46.420 --> 08:49.740
+They were a series of unmanned shots that we had.
+
+08:49.740 --> 08:53.260
+We started off with a set of boilerplate vehicles
+
+08:53.260 --> 08:55.500
+out in White Sands out in the desert
+
+08:55.500 --> 08:59.700
+where we shot up solid rockets to about 30,000 feet.
+
+08:59.700 --> 09:03.420
+And then we blew them up and separated the command module
+
+09:03.420 --> 09:05.100
+and tested the escape system.
+
+09:05.100 --> 09:08.140
+We probably had half a dozen shots out there in the desert.
+
+09:08.140 --> 09:12.180
+Some worked and some, by the way, where spooky is the devil
+
+09:12.180 --> 09:14.780
+because some of them wanted to come back over the team
+
+09:14.780 --> 09:16.980
+that was launching them because of the winds.
+
+09:16.980 --> 09:18.460
+So I was kind of an exciting time.
+
+09:18.460 --> 09:21.500
+And we learned something about the Apollo escape system
+
+09:21.500 --> 09:24.380
+and how it was going to work and how, indeed, we could trust it.
+
+09:24.380 --> 09:27.140
+We never actually had to use it in a man flight,
+
+09:27.140 --> 09:30.020
+but the Apollo escape system was very reliable
+
+09:30.020 --> 09:31.620
+and proven by those tests.
+
+09:31.620 --> 09:35.460
+We had a series of unmanned flights called 201 and 202,
+
+09:35.460 --> 09:39.100
+which were on the Saturn 1B, which was the smaller Saturn rocket
+
+09:39.100 --> 09:42.540
+used for Earth orbital flights and used on Apollo 7.
+
+09:42.540 --> 09:44.700
+Those flights were designed to test the heat shield.
+
+09:44.700 --> 09:47.380
+There was a lot we didn't know about the aerodynamics
+
+09:47.380 --> 09:51.220
+and the heating that would go with a return for the moon.
+
+09:51.220 --> 09:55.180
+And we exercised those parameters on a couple of flights
+
+09:55.180 --> 09:57.940
+that we called 201 and 202 in the mid-60s.
+
+09:57.940 --> 10:00.020
+And we had a lot of fun with those because they were unmanned.
+
+10:00.020 --> 10:02.980
+We had a lot of things to do from the control center.
+
+10:02.980 --> 10:05.620
+Later on, we flew the Saturn twice unmanned.
+
+10:05.620 --> 10:08.540
+Apollo 501 and 502.
+
+10:08.540 --> 10:11.340
+They also were very exciting flights.
+
+10:11.340 --> 10:14.900
+And the first one went by the book, that was the one I had.
+
+10:14.900 --> 10:18.060
+The next one, that Cliff had, almost came
+
+10:18.060 --> 10:23.140
+unglued a couple of times and it was kind of a scary flight.
+
+10:23.140 --> 10:26.140
+And I'm sure you'll hear more about that during the course of the day.
+
+10:26.140 --> 10:29.060
+Before I then moved on to Apollo 7, I would say one more thing
+
+10:29.060 --> 10:34.540
+that I think is important about the team and the way we got to the moon.
+
+10:34.540 --> 10:38.940
+We had about 10 or a dozen Gemini flights, man flights,
+
+10:38.940 --> 10:41.260
+two people in the cockpit.
+
+10:41.260 --> 10:44.260
+And when I look back on that, I
+
+10:44.260 --> 10:47.060
+think what I realize is that the people who
+
+10:47.060 --> 10:50.700
+planned the Gemini program in between the one man, Mercury Capsule,
+
+10:50.700 --> 10:55.100
+and the Apollo mission where we had to do so much other kind of work
+
+10:55.100 --> 10:56.260
+going to the moon.
+
+10:56.260 --> 10:59.940
+They really was a stroke of genius because out of that program
+
+10:59.940 --> 11:02.340
+came not so much space hardware.
+
+11:02.340 --> 11:04.460
+We used different hardware for Apollo.
+
+11:04.460 --> 11:07.700
+What came out of it was the operations team.
+
+11:07.700 --> 11:11.060
+If you look at the astronauts that flew the Apollo missions,
+
+11:11.060 --> 11:13.460
+I think to a man, almost to a man.
+
+11:13.460 --> 11:15.900
+They had all flown in Gemini.
+
+11:15.900 --> 11:19.860
+We did launches, rendezvouss.
+
+11:19.860 --> 11:24.860
+We didn't use the ejection seats in one very hairy sequence on the pad.
+
+11:24.860 --> 11:27.060
+We did rendezvous every way there was to do it.
+
+11:27.060 --> 11:28.100
+We did EVAs.
+
+11:28.100 --> 11:29.940
+We docked with a genus.
+
+11:29.940 --> 11:31.900
+We rode around on chairs, or at least we
+
+11:31.900 --> 11:37.780
+tried to, the man-minibring chairs, that we use a derivative of on the shuttle today.
+
+11:37.780 --> 11:41.620
+When I look back on that and realize all the different things that we did
+
+11:41.620 --> 11:46.420
+that were necessary to know how to do when we went to the moon,
+
+11:46.420 --> 11:51.340
+I would say that we came into Apollo with the flight crews and the ground crews
+
+11:51.340 --> 11:52.780
+like gangbusters.
+
+11:52.780 --> 11:55.180
+It's the word that occurs to me.
+
+11:55.180 --> 11:59.740
+We came into the Apollo program with a set of people who had done almost everything
+
+11:59.740 --> 12:02.900
+you could do in man-earth orbital flight.
+
+12:02.900 --> 12:05.820
+And frankly, we were cocky.
+
+12:05.820 --> 12:07.380
+We thought we know how to do this stuff.
+
+12:07.380 --> 12:10.460
+And we were looking forward in this assault to the moon.
+
+12:10.540 --> 12:19.100
+The events had a tragic and well-known halt with the Apollo fire.
+
+12:19.100 --> 12:23.940
+And in the 18 or so months that intervened between that fire and the first
+
+12:23.940 --> 12:28.580
+man-flight of Apollo 7, a great number of changes were made to the spacecraft.
+
+12:28.580 --> 12:33.100
+And again, the program came out of it much stronger than it otherwise would have
+
+12:33.100 --> 12:35.620
+been in the race to the moon.
+
+12:35.620 --> 12:40.780
+To finish up this scenario then, as in extending our abilities to operate in
+
+12:40.780 --> 12:43.700
+Earth orbit, we had to know that the command service module, which was kind of the
+
+12:43.700 --> 12:46.460
+mothership for the Apollo missions worked.
+
+12:46.460 --> 12:52.660
+Apollo 7 was flown in October the fall of 1968 with only one more year to go to
+
+12:52.660 --> 12:54.660
+meet the president's deadline.
+
+12:54.660 --> 12:57.340
+It was about a 10-day flight in Earth orbit.
+
+12:57.340 --> 13:01.820
+We did everything we know how to do to the command service module with the three
+
+13:01.820 --> 13:05.660
+astronauts and the ground people to test it.
+
+13:05.660 --> 13:10.260
+And out of that flight came eventually the plans for Apollo 8.
+
+13:10.260 --> 13:13.900
+Actually, a little before the flight we decided we would do Apollo 8, which was the
+
+13:13.900 --> 13:18.620
+Frank Bournemont trip around the moon on Christmas.
+
+13:18.620 --> 13:22.660
+But when I look back on it, I see that all of those events of the unmanned Apollo
+
+13:22.660 --> 13:28.340
+flights, the things that we did in Gemini and the confidence that we gained in
+
+13:28.380 --> 13:33.060
+ourselves and our ability to master problems.
+
+13:33.060 --> 13:36.700
+We had problems out the galore on almost every Gemini flight.
+
+13:36.700 --> 13:42.060
+Out of that kind of a background came the teams of people here and at the Cape, but I will
+
+13:42.060 --> 13:47.580
+speak to the teams here, the astronauts and the ground controllers in MCC.
+
+13:47.580 --> 13:51.420
+And we really felt confident in going into Apollo.
+
+13:51.420 --> 13:54.420
+Apollo 7 was successful, as you know.
+
+13:54.420 --> 14:00.580
+We tested the vehicle very well in Earth orbit and then began the exciting phase of the
+
+14:00.580 --> 14:05.420
+moon project where we began to test the really big hardware that is the new rocket and the
+
+14:05.420 --> 14:12.460
+lunar module and eventually made our assault upon the moon in terms of completing the
+
+14:12.460 --> 14:17.540
+lunar landing mission with the team of people that we had built during those early years.
+
+14:17.540 --> 14:20.500
+And that team of people was just a cracker jack outfit.
+
+14:20.500 --> 14:27.100
+I have always been into this day and overwhelmed with pride at the opportunity I had to be a
+
+14:27.100 --> 14:28.620
+part of that team.
+
+14:28.620 --> 14:33.460
+So with that, I'll turn it over to Joe and the rest of the guys to tell you after we learned
+
+14:33.460 --> 14:36.980
+how to do things in Earth orbit, what we did to go to the moon.
+
+14:36.980 --> 14:38.300
+Glenn, thank you.
+
+14:38.300 --> 14:41.540
+To take us out from Earth orbit, Cliff.
+
+14:41.540 --> 14:46.620
+Yeah, I'd like to start before I get into Apollo 8.
+
+14:46.620 --> 14:53.420
+Go back to the thing Glenn mentioned about the second unmanned Saturn V launch.
+
+14:53.420 --> 14:59.540
+That flight occurred, I believe, in April of 68.
+
+14:59.540 --> 15:04.660
+I may have lost a year or two, but anyway.
+
+15:04.660 --> 15:08.060
+We had a few problems that day.
+
+15:08.060 --> 15:13.100
+We lost two engines during the second stage in the flight.
+
+15:13.100 --> 15:17.260
+We also had Pogo, which nobody knew at the time because we didn't have real time data on
+
+15:17.260 --> 15:21.660
+it, but we had Pogo to the extent that the crew wouldn't have been able to read cockpit
+
+15:21.660 --> 15:25.580
+gauges and would have probably required an abort.
+
+15:25.580 --> 15:30.540
+We had a number of other problems in the spacecraft, but we did stagger into orbit.
+
+15:30.540 --> 15:33.740
+And I say that is pretty an accurate description.
+
+15:33.740 --> 15:37.020
+We flew all over the sky, but we made it into orbit.
+
+15:37.020 --> 15:44.580
+And finally got settled down a couple of orbits later to do the S4B burn to drive the spacecraft
+
+15:44.580 --> 15:48.260
+up to come back in and simulate a lunar return.
+
+15:48.260 --> 15:50.860
+And lo and behold, it didn't light.
+
+15:50.860 --> 15:57.900
+So we aborted off of the S4B and burned the SPS engine, some tremendous long period of
+
+15:57.900 --> 16:03.860
+time, and got all we could out of the flight, but we didn't meet the objectives of the
+
+16:03.860 --> 16:05.140
+flight.
+
+16:05.140 --> 16:14.140
+So that as a background, a meeting occurred over at Marshall in the fall, and I knew there
+
+16:14.140 --> 16:20.660
+was a meeting, and I got a phone call one night early to come out to craft office.
+
+16:20.660 --> 16:22.180
+He wanted to see me.
+
+16:22.180 --> 16:27.060
+Well my first thought was, oh boy, we're going to fly another one of those unmanned deals with
+
+16:27.060 --> 16:29.180
+boilerplate on it, and you're elected.
+
+16:29.180 --> 16:31.780
+That's what my thought was.
+
+16:31.780 --> 16:37.140
+So I walked into his office fully expecting that, and he looked at me and says, what do
+
+16:37.140 --> 16:40.780
+you think about taking Apollo 8 to the moon?
+
+16:40.780 --> 16:45.740
+And I said, well I haven't thought about it.
+
+16:45.740 --> 16:51.420
+But on thinking about it for a little bit, it sounded like a fun thing to try to do.
+
+16:51.420 --> 16:55.860
+So he said, I want you to go get certain group of people together, and we need to go get
+
+16:55.860 --> 16:56.860
+some answers.
+
+16:57.580 --> 17:02.740
+We found out into a team and started looking at all the reasons why you couldn't, and all
+
+17:02.740 --> 17:06.100
+the reasons why you could.
+
+17:06.100 --> 17:08.300
+This had been going on for some time in the background.
+
+17:08.300 --> 17:12.580
+It was initiated by George Lowe and others.
+
+17:12.580 --> 17:17.940
+In any event, NASA made that decision, and while Glenn was preparing to fly Apollo 7,
+
+17:17.940 --> 17:24.620
+we had a small team off in the center, and many of you probably were on that team, trying
+
+17:24.620 --> 17:30.220
+to figure out how to do that, because we had to accelerate a number of things that we
+
+17:30.220 --> 17:35.340
+had not planned to do that early, primarily in the software world, some of the trajectory,
+
+17:35.340 --> 17:36.700
+kinds of things.
+
+17:36.700 --> 17:41.300
+The spacecraft people had a heck of a job trying to go figure out whether they could stamp
+
+17:41.300 --> 17:47.660
+this hardware, which we hadn't even flown, really, ready to go to the moon.
+
+17:47.660 --> 17:54.460
+Well, all that came together, and we did in fact make the commitment to go.
+
+17:54.460 --> 17:58.740
+As Glenn said, leading up to that, we had pretty well proved we knew how to get into Earth
+
+17:58.740 --> 18:03.580
+orbit and operate there, but this was the first time we were going to leave Earth orbit,
+
+18:03.580 --> 18:09.860
+and go to a place that's three days away in terms of getting back if something happens.
+
+18:09.860 --> 18:15.100
+Not only that, we were going to do it without the lunar module, so we would wind up with
+
+18:15.100 --> 18:22.740
+a one engine in lunar orbit to get us back home, which was eventually what we had to
+
+18:22.740 --> 18:29.100
+do anyway, but it was a little bit spooky if you said and think about that for a while.
+
+18:29.100 --> 18:34.180
+The preparations were difficult.
+
+18:34.180 --> 18:42.100
+We spent a lot of hard hours working on that, but the day finally came, and we launched,
+
+18:42.100 --> 18:50.700
+phase was fairly uneventful, as I recall, and we did our two orbits of preparation to get
+
+18:50.700 --> 18:58.800
+ready to go to the moon and burned the HES-4B successfully for TLI.
+
+18:58.800 --> 19:04.340
+And from that point on, we had a different ballgame on our hands, for example.
+
+19:04.340 --> 19:09.900
+In Earth orbit, most of you, or a lot of you know, you key everything that you're trying
+
+19:09.900 --> 19:16.100
+to do on the console, wherever your console is, to when is the next station pass?
+
+19:16.100 --> 19:22.540
+You've got about five minutes to seven minutes to get information up and down to the spacecraft.
+
+19:22.540 --> 19:27.740
+Well, here we were in a situation where we could talk to him anytime we want to, and that
+
+19:27.740 --> 19:28.740
+was a strange thing.
+
+19:28.740 --> 19:34.460
+As a matter of fact, I thought about that during the flight because I got to the point
+
+19:34.460 --> 19:38.220
+where you'd almost forget they were there, because you know, you could talk to him anytime
+
+19:38.220 --> 19:40.300
+you wanted to.
+
+19:40.300 --> 19:49.260
+But anyway, the trip out was not uneventful, and these guys feel free to hop in here because
+
+19:49.260 --> 19:51.220
+you were involved, too.
+
+19:51.220 --> 19:56.060
+One of the things that we had decided to do clever devils that we are was that we would
+
+19:56.060 --> 20:01.060
+test that engine on the way out, to be sure they worked right.
+
+20:01.060 --> 20:07.540
+And I think we're going to do a small, out-of-plane maneuver just to burp the SPS, and be sure
+
+20:07.540 --> 20:08.540
+it was working right.
+
+20:08.540 --> 20:12.020
+Well, we did that, and it didn't work right.
+
+20:12.020 --> 20:15.420
+And it did not.
+
+20:15.420 --> 20:19.140
+And there was a little funny in the thrust chamber pressure.
+
+20:19.140 --> 20:24.400
+So now we've got three days to look at data and talk to everybody that you can find in
+
+20:24.400 --> 20:30.460
+the world to talk to, to satisfy ourselves that we can indeed commit to put the spacecraft
+
+20:30.460 --> 20:31.460
+in a little orbit.
+
+20:31.460 --> 20:35.660
+Knowing when we do that, it has to work to come home.
+
+20:36.500 --> 20:41.180
+Well, there are an awful lot of smart people today.
+
+20:41.180 --> 20:43.740
+Some of them are smarter than we were, I think.
+
+20:43.740 --> 20:46.540
+But there were some smart people in.
+
+20:46.540 --> 20:54.780
+And they gathered them, whether they be contractors that bowels of a plant somewhere, or the guy that
+
+20:54.780 --> 21:02.620
+designed it, whatever it took, and satisfied all levels of management at the Johnson Space
+
+21:02.620 --> 21:08.340
+Center and Headquarters, that yes, indeed, we understood what was going on with the engine.
+
+21:08.340 --> 21:12.780
+Today, I couldn't explain it, but that we were satisfied.
+
+21:12.780 --> 21:15.940
+It was okay to use it and commit to an orbit.
+
+21:15.940 --> 21:18.780
+Either you guys, you got anything to add to that?
+
+21:18.780 --> 21:21.420
+You some of you were involved in looking at that problem.
+
+21:21.420 --> 21:24.140
+I would just add this to it, Cliff.
+
+21:24.140 --> 21:28.100
+In retrospect, that was a major systems problem that had to be dealt with and was dealt
+
+21:28.100 --> 21:30.460
+with right.
+
+21:30.460 --> 21:34.000
+And the situation we were faced with was there was the possibility that after the first
+
+21:34.000 --> 21:38.220
+burn, we could have done another little one, and then another little one later to take
+
+21:38.220 --> 21:40.660
+it out, but we had to do those fairly quickly.
+
+21:40.660 --> 21:45.860
+So there was an urgency to deciding whether we would try another test on the engine or
+
+21:45.860 --> 21:46.860
+not.
+
+21:46.860 --> 21:49.540
+And it fell to me on my shift to deal with that problem.
+
+21:49.540 --> 21:53.140
+Well, at the same time, and I don't even know if this is public knowledge, but at the
+
+21:53.140 --> 21:58.020
+same time, there was a report from the crew that one of the crew members was ill.
+
+21:58.020 --> 22:08.220
+So, this seemed to attract all of the high management's brains.
+
+22:08.220 --> 22:12.420
+Everybody that I thought I could get some help from, they were all off working on the
+
+22:12.420 --> 22:16.420
+fact that this guy got sick, which I didn't really care about because it wasn't a bloody
+
+22:16.420 --> 22:17.820
+thing that we could do about it today.
+
+22:17.820 --> 22:24.420
+I knew of, so just be sick and be quiet about it for God's sake.
+
+22:24.420 --> 22:33.100
+So, anyway, while everybody else except the propulsion guys are over here worrying about
+
+22:33.100 --> 22:38.540
+this so-called sick astronaut, it fell to me to deal with this issue of well, we're going
+
+22:38.540 --> 22:41.740
+to burn this thing another time and see if it works and can we get it and then do a burn
+
+22:41.740 --> 22:44.940
+after that to get us back on the trajectory we want and we couldn't do too much because
+
+22:44.940 --> 22:48.020
+we were running out of fuel if we did too much of that fooling around and if we're going
+
+22:48.020 --> 22:50.140
+to do anything, we had to do it in a big hurry.
+
+22:50.140 --> 22:55.380
+So after a whole bunch of deliberations with the people that Cliff talked about, I just
+
+22:55.380 --> 22:59.220
+took a deep breath, looked around one more time for the sick astronaut committee and they
+
+22:59.220 --> 23:03.980
+were nowhere in sight and said, well, you're right, it sounds alright to me, we're going
+
+23:03.980 --> 23:08.220
+to go ahead and we didn't do any burns and we set the track for the Apollo 8 mission,
+
+23:08.220 --> 23:13.540
+but Boascher felt like a lone ranger for quite a while there.
+
+23:14.100 --> 23:18.020
+Well, can I add something to that?
+
+23:18.020 --> 23:24.100
+It so happened that I was kind of riding shotgun on Apollo 8 without a lot of detail to
+
+23:24.100 --> 23:29.180
+you so I was put on that sick astronaut committee for you.
+
+23:29.180 --> 23:36.500
+And but you got to write one thing to put in context here, we had never left the influence
+
+23:36.500 --> 23:43.300
+of our scravity and there was a worry amongst the sick astronaut committee that my
+
+23:43.300 --> 23:49.100
+gosh, this means that we there's something that we don't know about heading out of the
+
+23:49.100 --> 23:53.340
+Earth's influence and it's caused this astronaut to get sick.
+
+23:53.340 --> 23:59.140
+Well as most of you know later on, we've had some some of that almost on every flight,
+
+23:59.140 --> 24:03.620
+but it wasn't very serious concern and here was Pearl Glenn wrestling with all the technical
+
+24:03.620 --> 24:08.860
+stuff and but we did get finally solved and in fact the astronaut did find a little later
+
+24:08.860 --> 24:12.900
+which is the typical pattern once once you get into orbit.
+
+24:12.900 --> 24:15.740
+There is the advantage of being the lead flight director.
+
+24:15.740 --> 24:20.500
+You see you just delegate all those tufts to the other guy.
+
+24:20.500 --> 24:27.660
+In any event, having waited through all of that, we pressed on to the moon and the next
+
+24:27.660 --> 24:34.980
+big milestone of course was the first lunar orbit insertion burn and the long wait as
+
+24:35.060 --> 24:39.220
+they were behind the moon to find out what happened.
+
+24:39.220 --> 24:44.500
+Fortunately, everything went very well but I was one worried individual the first time
+
+24:44.500 --> 24:49.180
+they went behind the moon and I know Emel's teacher wouldn't agree with me but it always
+
+24:49.180 --> 24:55.580
+spook me to scale at 60 nautical mile orbit to the dam to the moon and see how near that
+
+24:55.580 --> 25:00.220
+really is and wanted to know whether you really figured that all out right.
+
+25:00.220 --> 25:08.980
+We did, they came around the moon just about the orbit that we had predicted and then they
+
+25:08.980 --> 25:15.900
+settled down to about what was about ten orbits I believe of extremely hard work.
+
+25:15.900 --> 25:23.500
+We really had some tired crewmen on our hands by the time they left lunar orbit.
+
+25:23.500 --> 25:32.100
+We did that, we went ahead and made the burn to head for home and there was a very relieved
+
+25:32.100 --> 25:36.700
+group of people and I think Glen Loney was one of the most relieved when we came out
+
+25:36.700 --> 25:41.940
+from behind the moon and indeed that engine had worked very well.
+
+25:41.940 --> 25:47.860
+I would point out that as an aside prior to going to the moon with the flight so we had
+
+25:47.860 --> 25:51.580
+budgeted quite a bit of propellant to do mid course maneuvers because we didn't know
+
+25:51.660 --> 25:56.460
+how well we were going to be able to navigate, how well the systems were going to work.
+
+25:56.460 --> 26:02.980
+As it turned out they worked very, very well and we had program mid course maneuvers but
+
+26:02.980 --> 26:07.820
+they were very small in some cases we skipped them all together and as I recall on eight
+
+26:07.820 --> 26:11.540
+that was pretty well the situation we were in both out and back and here is the first
+
+26:11.540 --> 26:16.940
+time we've done it so that was very encouraging.
+
+26:17.020 --> 26:24.020
+We had some tired crewmen as I said coming back they had elected to try to keep one man
+
+26:24.020 --> 26:31.740
+or watch it all times during that particular flight and as we knew we proved once again
+
+26:31.740 --> 26:37.520
+that you can't really do that because with the size of the cockpit somebody of weight
+
+26:37.520 --> 26:42.380
+keeps the other guys from sleeping very well so they were pretty well beat by the time
+
+26:42.460 --> 26:45.180
+they get back to landing.
+
+26:45.180 --> 26:53.680
+Landing was uneventful as I recall and I would just summarize Apollo 8 in my mind I think
+
+26:53.860 --> 27:00.860
+it was probably as far as I'm concerned the highlight of the Apollo program. The commitment,
+
+27:03.420 --> 27:10.420
+the decision it was made to take that step was fantastic in my mind. I don't believe
+
+27:10.740 --> 27:15.260
+you could make that decision these days but to think that you're going to take the
+
+27:15.260 --> 27:22.260
+second spacecraft out of the shoot send it to the moon and commit to that sort of endeavour
+
+27:23.940 --> 27:30.940
+as it took a lot of courage on some people's part to do that. It was a great flight.
+
+27:31.180 --> 27:37.260
+One of the more thrilling things to me was the reading of the biblical passages when
+
+27:37.260 --> 27:42.460
+the guys were around the moon at Christmas time which was something that they initiated
+
+27:42.460 --> 27:48.260
+nobody knew they were going to do it but I can tell you this and there were some tears
+
+27:48.260 --> 27:53.260
+in people's eyes when that was going on. It was a great flight I really enjoyed it.
+
+27:53.260 --> 28:01.260
+Anybody else glad? Cliff, thank you. Already I'm hearing stories I didn't know about before
+
+28:01.860 --> 28:10.260
+I flew in space. I'm glad I'm worrying about them now. Jerry. Well I'll kind of pick up for
+
+28:10.260 --> 28:17.260
+Cliff left there and step quickly and kind of bring maybe me and Steve up to the Apollo 11
+
+28:17.260 --> 28:24.260
+time frame when we landed on the moon. It's only I agree with what Cliff said that Apollo 8
+
+28:24.260 --> 28:31.260
+mission was kind of scary in a way and the reason that it was kind of scary is that in
+
+28:31.260 --> 28:37.260
+the courage that he mentioned to take that step is that everything we had done up to that
+
+28:37.260 --> 28:42.260
+point with the possible exception of the EVA that we did in Germany we had built a very
+
+28:42.260 --> 28:48.260
+careful building block approach. We had one thing at a time and take the next step and
+
+28:48.260 --> 28:55.260
+Apollo 8 kind of jumped out of that for a good reason. It pushed the system I think to go on
+
+28:55.260 --> 29:03.260
+faster and well within constraints of safety but it showed an ability to take risk and I think
+
+29:03.260 --> 29:08.260
+that's where when it's measured and when the gain is worth the risk and I think that's where Cliff and I
+
+29:08.260 --> 29:15.260
+really agree that those kinds of things are getting harder and harder to do. But let me get to that
+
+29:15.260 --> 29:21.260
+building block approach. Glenn kind of brought you through what built up to get us to Apollo 7 and
+
+29:21.260 --> 29:28.260
+for the most part Apollo itself had that same building block approach. After 8 the next thing we
+
+29:28.260 --> 29:34.260
+did was Apollo 9 which was a low Earth orbit back in Earth orbit again but we added additional
+
+29:34.260 --> 29:40.260
+step to it. We added the lunar module. In the lunar module, in the command module, docked together
+
+29:40.260 --> 29:47.260
+like it would be at the moon or in Earth orbit and we undocked them and separated them.
+
+29:47.260 --> 29:52.260
+It was the first time we'd ever done anything like that and had two people in the limb, the
+
+29:52.260 --> 29:57.260
+lunar module without a heat shield. It was the first time we'd ever had anybody in orbit that
+
+29:57.260 --> 30:04.260
+didn't have a protective heat shield to get down and that was a significant step. But we also
+
+30:04.260 --> 30:09.260
+had to do that. We could rendezvous, re-dock, transfer the crew back in, discard the
+
+30:09.260 --> 30:15.260
+limb and re-enter the command module. That had to be done to return from the moon. That was
+
+30:15.260 --> 30:20.260
+another step in the process. Apollo 10 came right after that. We had already been to the
+
+30:20.260 --> 30:27.260
+moon on Apollo 8 to go into orbit. Apollo 10 was another, let's go into orbit around the
+
+30:27.260 --> 30:33.260
+moon, but it had the lunar module with it which was at another additional step. We did the
+
+30:33.260 --> 30:39.260
+thing in Earth, or I'm sorry, in lunar orbit that something like we had done in Earth orbit
+
+30:39.260 --> 30:45.260
+on Apollo 9. We separated the crewman, Tom Staff and Jean Sernan went down very low to the
+
+30:45.260 --> 30:50.260
+surface but didn't land. But they were close. In fact, some of you may remember Jean Sernan
+
+30:50.260 --> 30:55.260
+saying we were really down amongst them and that was because he could see the mountains higher
+
+30:55.260 --> 31:00.260
+or at least appearing to be higher like most airplane pilots think they're higher than they
+
+31:00.260 --> 31:05.260
+were and they probably weren't. But they were really got down low and then they didn't
+
+31:05.260 --> 31:10.260
+abort and came up just like they would have had to in the event of an emergency. But this
+
+31:10.260 --> 31:15.260
+one was planned. It wasn't planned to touch down. So here we built another block. They came
+
+31:15.260 --> 31:20.260
+back up rendezvous with the command module. Command module did its maneuver and brought
+
+31:20.260 --> 31:28.260
+them home. So you can see this step by step creeping up on the problem. And by the time
+
+31:28.260 --> 31:35.260
+we launched Apollo 11, as Glenn said, the control team was ready. The launch people
+
+31:35.260 --> 31:42.260
+at Cape had been through it several times. The astronauts very well prepared. But there
+
+31:42.260 --> 31:50.260
+was a difference about 11. And I think some of us probably, they were involved in it day to day
+
+31:50.260 --> 31:57.260
+and I'd like to get the reaction of these guys. I don't think we felt the importance of
+
+31:57.260 --> 32:04.260
+it then like we did in later years. This was, and I get back to that building block process.
+
+32:04.260 --> 32:12.260
+It was just another step on a goal we had been pursuing for so long that many of us didn't
+
+32:12.260 --> 32:18.260
+think of it. I don't think it's being this profound step. We saw it as a great achievement
+
+32:18.260 --> 32:23.260
+that we wanted to make happen. But we didn't understand maybe what the rest of the world,
+
+32:23.260 --> 32:29.260
+how they felt about it. And we started. I can remember, and I've thought about this
+
+32:29.260 --> 32:33.260
+lot in the last week or two because I've had people ask me about it and reporters
+
+32:33.260 --> 32:40.260
+wanting to know what it was like. I can remember, although I, on Apollo 11, I was just, I did a
+
+32:40.260 --> 32:47.260
+trans lunar shift, a sleep shift virtually on the way out and one on the way back because I was
+
+32:47.260 --> 32:51.260
+already assigned Apollo 12 as lead flight director and was already starting to think about
+
+32:51.260 --> 32:58.260
+that flight. But I can remember being, although we were on a high step and ready to do it
+
+32:58.260 --> 33:07.260
+just like we had on 10, I didn't feel a great difference in the start. I didn't have that
+
+33:07.260 --> 33:14.260
+different feeling than I had from 10. And I took it kind of as one step. We've done this.
+
+33:14.260 --> 33:20.260
+We've been here. We keep going. And I can remember very clearly where the difference came.
+
+33:20.260 --> 33:25.260
+Steve for him, he'll probably talk about some of the alarms that we got on Apollo. Probably started
+
+33:25.260 --> 33:31.260
+there for him. It didn't for me because I knew he had that under control and it was a piece of cake.
+
+33:31.260 --> 33:40.260
+But what I really remember is when Buzz said we're start to pick up some dust. And I can remember
+
+33:40.260 --> 33:47.260
+to this day that I had the realization he's talking about dust being blown off the moon by the
+
+33:47.260 --> 33:54.260
+decent engine. And that was the step we had not taken yet. And from there on that
+
+33:54.260 --> 34:01.260
+flight had a great different feeling for me. And then surprisingly once we got off the
+
+34:01.260 --> 34:08.260
+moon and back up to the lunar orbit point, I felt well we've done this before and it should
+
+34:08.260 --> 34:14.260
+be okay. But that interim period was that last step of that building block that we hadn't
+
+34:14.260 --> 34:23.260
+done yet. So it put that great difference to it. I think the mission control teams reaction
+
+34:23.260 --> 34:30.260
+to the landing is kind of understandable. While there was great euphoria, I think probably
+
+34:30.260 --> 34:37.260
+individually. There was no wild screaming or anything like that. In fact, a common-dont
+
+34:37.260 --> 34:44.260
+crans was the flight director. And as those of you that know Jean Cran, those of you
+
+34:44.260 --> 34:50.260
+don't, I'll tell you a little bit about him. Probably one of the toughest disciplinary and
+
+34:50.260 --> 34:57.260
+kinds of guys in the world, very extremely thorough right on top of the situation.
+
+34:57.260 --> 35:04.260
+Jean Cran was an international asset and he was just the right guy to be running the control center
+
+35:04.260 --> 35:10.260
+that day. He kept a calmness to it. We had some abort opportunities playing there early.
+
+35:10.260 --> 35:15.260
+I think we called him T1 and T2. And we didn't know if when the limb touched down it might start to,
+
+35:15.260 --> 35:20.260
+one of the gears might start to sink and we might have to punch off immediately. But we did
+
+35:20.260 --> 35:26.260
+also have some windows pointed out where we would do these systems checks quickly. And if there was an
+
+35:26.260 --> 35:31.260
+opportunity to abort, we had to command module in the right space for them to get back to it.
+
+35:31.260 --> 35:41.260
+So it was a very business-like atmosphere and kind of a calm sort of thing. On a personal note,
+
+35:41.260 --> 35:47.260
+as soon as we touched down and I realized we had done it and it was all very exciting,
+
+35:47.260 --> 35:53.260
+I had started thinking about Apollo 12. Actually before they even had done their EVA
+
+35:53.260 --> 35:57.260
+because we had already started talking about what we were going to try to do on Apollo 12,
+
+35:57.260 --> 36:07.260
+which was a pretty exacting test. But that built on in the control center throughout that
+
+36:07.260 --> 36:16.260
+entire period stay was a very subdued, professional kind of atmosphere. I can remember,
+
+36:16.260 --> 36:21.260
+and while I can't tell you exactly what it said, I can remember one humorous note that since I was
+
+36:21.260 --> 36:25.260
+kind of working the night shifts, I came in one night and one of our flight controllers
+
+36:25.260 --> 36:31.260
+had put up on one of the big screens about size of this thing over here. Some comment not too
+
+36:31.260 --> 36:37.260
+kind about the Russians. And other than that, I didn't see any
+
+36:37.260 --> 36:45.260
+for volatility in the control center throughout that whole period. Great, great opportunity
+
+36:45.260 --> 36:51.260
+in a great day for the country to think about now 20 years later. One final thought
+
+36:51.260 --> 36:57.260
+and we were talking about this as we were standing up here before this started today.
+
+36:57.260 --> 37:01.260
+One of the things that just amazes me about that whole period leading up to the lunar landing,
+
+37:01.260 --> 37:11.260
+and even now to some degree was the youthfulness of that control team.
+
+37:11.260 --> 37:18.260
+If I'm not mistaken, I think at that point, the man to my left here was in his mid-30s
+
+37:18.260 --> 37:26.260
+and he was the oldest flight director. I won't pin it down to you.
+
+37:26.260 --> 37:32.260
+I think he was the oldest flight director, Eve Older than Cranes.
+
+37:32.260 --> 37:38.260
+But we were all a bunch of young people. Steve Bales in his 20s.
+
+37:38.260 --> 37:46.260
+And when I think about marshalling that kind of energy and vigor in the interest that was shown,
+
+37:46.260 --> 37:53.260
+and we still see signs of that today, obviously, we did have a team of management on top of us,
+
+37:53.260 --> 38:02.260
+some of them older than that, that were very, very supportive and very visionary and very, very good.
+
+38:02.260 --> 38:14.260
+But I think back to the young people that made that happen and kind of marvel that it could have been done by people so young.
+
+38:14.260 --> 38:21.260
+We had, Glenn and I know have talked about this. We probably had more responsibility at about age 30
+
+38:21.260 --> 38:29.260
+than most people will have in lifetime. And we had that opportunity because NASA gave it to us.
+
+38:29.260 --> 38:30.260
+Joe?
+
+38:30.260 --> 38:41.260
+Jerry, thank you. Steve, you're kind of the clean up hitter and feel free to correct what any of these old timers have intended to say.
+
+38:41.260 --> 38:45.260
+I had to correct them all the time when we were flying, I guess.
+
+38:45.260 --> 38:50.260
+Just continuing. I'm actually here representing Gene Cranes. Gene is on his way to Washington today.
+
+38:50.260 --> 38:56.260
+And I think, I'd like to say, talk about two things. Because he would want to talk to you about two things.
+
+38:56.260 --> 39:02.260
+One was Apollo 9. Jerry mentioned that. It was a very difficult mission and Gene was the lead.
+
+39:02.260 --> 39:08.260
+Very difficult because it was sandwiched between probably the greatest mission of the Apollo program Apollo 8.
+
+39:08.260 --> 39:12.260
+If you didn't work on Apollo 8, I think you had heartache. I certainly didn't.
+
+39:12.260 --> 39:13.260
+And it ate you.
+
+39:13.260 --> 39:15.260
+I just didn't know that.
+
+39:15.260 --> 39:20.260
+Go without coming to the audience. You have to understand, Mr. Cranes.
+
+39:20.260 --> 39:24.260
+Whatever flight he was working on was the toughest flight.
+
+39:24.260 --> 39:27.260
+Go ahead.
+
+39:27.260 --> 39:34.260
+And on the other side was Apollo 10 where we were going to take the two vehicles and go right down among them as Jerry said.
+
+39:34.260 --> 39:38.260
+And here's Apollo 9 and it's going to stay in Earth orbit.
+
+39:38.260 --> 39:41.260
+And it's going to do things that are very, very important.
+
+39:41.260 --> 39:45.260
+We've never checked out the rendezvous systems. We've done rendezvous in Earth orbit.
+
+39:45.260 --> 39:52.260
+We've never used the systems. However, we're actually going to use on the moon to get the two ships back together.
+
+39:52.260 --> 40:00.260
+And that was a mission that it took someone very special, I believe, to keep inspiring the team and keep them going.
+
+40:00.260 --> 40:05.260
+We are just as excited about Apollo 9 as they would be about Apollo 10 and 11.
+
+40:05.260 --> 40:12.260
+And I think it's important that you all realize that between those two outstanding missions there was Apollo 9
+
+40:12.260 --> 40:18.260
+and it was just as essential as a building block to go on to 11 as the others were.
+
+40:18.260 --> 40:26.260
+The other thing I would like to do is take you back through Apollo 11, the landing and the activation and then leave it on the moon
+
+40:26.260 --> 40:33.260
+and then maybe turn it over to Glenn Lennie who actually got them back off the moon back up to the command module.
+
+40:33.260 --> 40:41.260
+We'd done a number of things and Apollo 8 was very essential to us because we had a lot of unknowns about how we were going to navigate.
+
+40:41.260 --> 40:53.260
+Not just the fact we're going to come so close to the moon but we were really precisely having to put down a ship later when we were going to fly Apollo 11 within a few mile
+
+40:53.260 --> 40:57.260
+within less than a mile of a precise point on the moon we wanted to put it.
+
+40:57.260 --> 41:01.260
+And the moon is not a nice, spherical place to navigate.
+
+41:01.260 --> 41:05.260
+It has concentrations, although in fact they call them mass cons for sure.
+
+41:05.260 --> 41:12.260
+And they affected our orbit and we weren't quite sure what techniques we were going to use to actually do the final targeting for the landing module.
+
+41:12.260 --> 41:20.260
+Apollo 11, our Apollo 8 taught us how to do that and we actually were able to use those things on 11.
+
+41:20.260 --> 41:35.260
+The activation of 11 went so well because we had practiced it on 10 and the new thing and the new part of the game was the actual descent as Jerry talked about.
+
+41:35.260 --> 41:38.260
+Now go back to a personal moment.
+
+41:38.260 --> 41:48.260
+Before the final descent and the crew was still on the back of the moon, the timeline ran, we would come around the side of the moon, we'd have 15 minutes to look at the spaceship
+
+41:48.260 --> 41:52.260
+and then we were going to fire the engine and we were going to land.
+
+41:52.260 --> 42:00.260
+10 minutes before acquisition of signal, Jean Krants gave a speech, the general patent we would like to have given.
+
+42:00.260 --> 42:12.260
+And I can almost remember it chapter and verse, but the one point that will always stay in my mind is he says, I don't care how we do, we've trained, we know where the best there is.
+
+42:12.260 --> 42:15.260
+And whatever happens, I'm going to stand behind you.
+
+42:15.260 --> 42:21.260
+And if you think that doesn't mean a lot to a group of flight controllers and a point like that, you just have never been in that situation.
+
+42:21.260 --> 42:23.260
+It really means everything to you.
+
+42:23.260 --> 42:29.260
+But then right after that, he says, I'm going to lock these doors.
+
+42:29.260 --> 42:38.260
+Now, I've never was sure if he was going to keep everybody else out or he's going to keep everybody else in, but he locked the doors.
+
+42:38.260 --> 42:44.260
+During the actual descent, there were at least five times when we could have stopped.
+
+42:44.260 --> 42:48.260
+And we were very lucky, I think we were lucky, we were prepared.
+
+42:48.260 --> 42:50.260
+But in the end, we managed to make it through.
+
+42:50.260 --> 42:53.260
+Let me just go through the sequence of that.
+
+42:53.260 --> 42:55.260
+We came around the side of the moon.
+
+42:55.260 --> 42:58.260
+We were expecting nice, clear communications.
+
+42:58.260 --> 43:02.260
+And every other piece of data was garbage.
+
+43:02.260 --> 43:05.260
+We about had rough communications with a lot of noise.
+
+43:05.260 --> 43:07.260
+We couldn't hardly hear the crew.
+
+43:07.260 --> 43:11.260
+And the telemetry was there one minute and it wasn't there the next minute.
+
+43:11.260 --> 43:16.260
+And right away, Gene has to decide we have enough data to keep going on.
+
+43:16.260 --> 43:19.260
+Fortunately, that's what we've been trained to do.
+
+43:19.260 --> 43:22.260
+The simulation people had driven us right to that point many times.
+
+43:22.260 --> 43:26.260
+And Gene, old as flight control team.
+
+43:26.260 --> 43:31.260
+And collectively, they tried to tell him what we were seeing, what we weren't.
+
+43:31.260 --> 43:36.260
+And he made a judgment that we had enough information to keep going on.
+
+43:36.260 --> 43:40.260
+We start the descent and right away we find out we have another problem.
+
+43:40.260 --> 43:44.260
+Even though we've done the very best we could on targeting,
+
+43:44.260 --> 43:49.260
+our ability to predict where the landing module was going to be was an error.
+
+43:49.260 --> 43:51.260
+It was an error about four miles.
+
+43:51.260 --> 43:54.260
+The guys were coming in about four miles down range from where they thought they were,
+
+43:54.260 --> 43:56.260
+from where we'd hoped we were targeting them.
+
+43:56.260 --> 43:57.260
+We find that out.
+
+43:57.260 --> 44:00.260
+And not only that, we have a velocity air and altitude.
+
+44:00.260 --> 44:05.260
+About two-thirds of the way to where we would have to abort.
+
+44:05.260 --> 44:08.260
+We're sweating this one out for a couple of minutes.
+
+44:08.260 --> 44:11.260
+And during the descent, the way we set up 11,
+
+44:11.260 --> 44:15.260
+the crew actually rolled the vehicle around about four or five minutes
+
+44:15.260 --> 44:17.260
+into the descent landing radar locked on.
+
+44:17.260 --> 44:19.260
+Correct the velocity problem.
+
+44:19.260 --> 44:22.260
+There wasn't anything we were going to do about the down range problem.
+
+44:22.260 --> 44:23.260
+We're through that.
+
+44:23.260 --> 44:24.260
+We're starting to relax.
+
+44:24.260 --> 44:26.260
+Relax if you can call it that.
+
+44:27.260 --> 44:31.260
+And the crew says I've got this computer alarm.
+
+44:31.260 --> 44:34.260
+There is no way you're supposed to be getting computer alarms during descent.
+
+44:34.260 --> 44:36.260
+There is absolutely no way you're supposed to.
+
+44:36.260 --> 44:40.260
+They're put in there to debug, check out, and do everything else.
+
+44:40.260 --> 44:44.260
+But they are not put in there to that kind of alarm to have during descent.
+
+44:44.260 --> 44:46.260
+Fortunately again, our training came to our aid.
+
+44:46.260 --> 44:50.260
+We had been given those kind of cases a couple of weeks before.
+
+44:50.260 --> 44:53.260
+And in fact, when we were given that case in the simulation,
+
+44:53.260 --> 44:55.260
+I was ready to write it off and say,
+
+44:55.260 --> 44:59.260
+what are we doing, spending our time on this kind of nonsense?
+
+44:59.260 --> 45:00.260
+Because it's not realistic.
+
+45:00.260 --> 45:02.260
+And I've got other things to worry about.
+
+45:02.260 --> 45:04.260
+And Gene said, you will not write that off.
+
+45:04.260 --> 45:05.260
+You will form a team.
+
+45:05.260 --> 45:06.260
+You will get with the folks.
+
+45:06.260 --> 45:08.260
+And you will go through every possible alarm.
+
+45:08.260 --> 45:10.260
+I don't care if they're realistic or not.
+
+45:10.260 --> 45:13.260
+And you will make up a game plan on how you're going to play it.
+
+45:13.260 --> 45:15.260
+So due to the training and due to Gene's insistence,
+
+45:15.260 --> 45:17.260
+we had a game plan.
+
+45:17.260 --> 45:18.260
+And it was pretty good.
+
+45:18.260 --> 45:20.260
+Now, the experts, in this case,
+
+45:20.260 --> 45:21.260
+this alarm happened to say,
+
+45:21.260 --> 45:24.260
+a computer's got too much to do in this last second.
+
+45:24.260 --> 45:27.260
+And the experts had been of some help,
+
+45:27.260 --> 45:29.260
+and not a great deal of help on this one.
+
+45:29.260 --> 45:31.260
+They said, look, this isn't supposed to happen.
+
+45:31.260 --> 45:34.260
+We talked about that for an hour after we got them through that.
+
+45:34.260 --> 45:35.260
+After they told us for an hour,
+
+45:35.260 --> 45:36.260
+it wasn't ever supposed to happen.
+
+45:36.260 --> 45:38.260
+And we said, finally got through to them that,
+
+45:38.260 --> 45:39.260
+yeah, but it has happened.
+
+45:39.260 --> 45:40.260
+What do we do?
+
+45:40.260 --> 45:42.260
+They said, well, it's a very bad situation.
+
+45:42.260 --> 45:48.260
+But if it doesn't happen too much,
+
+45:48.260 --> 45:51.260
+if it doesn't happen too much,
+
+45:51.260 --> 45:54.260
+you're sort of left come up with your own judgment
+
+45:54.260 --> 45:56.260
+about what you should do next.
+
+45:56.260 --> 45:59.260
+And our own judgment had been,
+
+45:59.260 --> 46:00.260
+it wasn't happening that often,
+
+46:00.260 --> 46:01.260
+and everything else looked fine.
+
+46:01.260 --> 46:03.260
+Navigation looked fine, guidance looked fine,
+
+46:03.260 --> 46:07.260
+no more lines, and made a decision to go on.
+
+46:07.260 --> 46:10.260
+Now, the crew was distracted by the alarm so much
+
+46:10.260 --> 46:12.260
+that they were apparently at this time I didn't know this.
+
+46:12.260 --> 46:14.260
+They were looking inside the cockpit,
+
+46:14.260 --> 46:15.260
+and they were trying to figure out
+
+46:15.260 --> 46:18.260
+maybe they left a switch out of configuration, what had you.
+
+46:18.260 --> 46:21.260
+And by the time that Neil looked up
+
+46:21.260 --> 46:23.260
+and saw who was going,
+
+46:23.260 --> 46:25.260
+this four-mile error that I told you about
+
+46:25.260 --> 46:27.260
+had propagated in the fact that we weren't coming down
+
+46:27.260 --> 46:29.260
+in this nice smooth place where we were supposed to come down
+
+46:29.260 --> 46:30.260
+and we're coming down the Boulder Field.
+
+46:30.260 --> 46:33.260
+And he is flying a ship,
+
+46:33.260 --> 46:35.260
+as he'd been trained to do over the Boulder Field,
+
+46:35.260 --> 46:37.260
+all the time the gas is getting lower and lower.
+
+46:37.260 --> 46:39.260
+And if you listen to the other ground,
+
+46:39.260 --> 46:40.260
+you hear there's 60 seconds.
+
+46:40.260 --> 46:42.260
+That's what it really means, 60 seconds,
+
+46:42.260 --> 46:43.260
+and you're going to have to leave.
+
+46:43.260 --> 46:45.260
+And then you hear 30 seconds,
+
+46:45.260 --> 46:46.260
+and the same thing,
+
+46:46.260 --> 46:48.260
+and then there's a long pause even then,
+
+46:48.260 --> 46:49.260
+after the 30 seconds,
+
+46:49.260 --> 46:52.260
+we're getting down to the 17-15 second frame.
+
+46:52.260 --> 46:54.260
+And most people don't realize that,
+
+46:54.260 --> 46:55.260
+we're about 15 seconds.
+
+46:55.260 --> 46:56.260
+Give or take a couple,
+
+46:56.260 --> 46:58.260
+from having to stop the descent.
+
+46:58.260 --> 46:59.260
+And then the famous,
+
+46:59.260 --> 47:01.260
+I hear, I see the dust,
+
+47:01.260 --> 47:03.260
+crew touches down.
+
+47:03.260 --> 47:08.260
+And my personal reaction was one of intense relief
+
+47:08.260 --> 47:09.260
+and gratitude.
+
+47:09.260 --> 47:11.260
+And then it was one of wonder
+
+47:11.260 --> 47:14.260
+because the crew said something I'd never heard them say before.
+
+47:14.260 --> 47:15.260
+All during a training,
+
+47:15.260 --> 47:17.260
+they called themselves the eagle.
+
+47:17.260 --> 47:19.260
+Never used any word with eagle.
+
+47:19.260 --> 47:22.260
+And then on the day of January 20th,
+
+47:22.260 --> 47:23.260
+the three o'clock in the afternoon,
+
+47:23.260 --> 47:25.260
+they used the word tranquility base.
+
+47:25.260 --> 47:28.260
+And that changed the mission entirely for me,
+
+47:28.260 --> 47:30.260
+because we really had a base on them
+
+47:30.260 --> 47:32.260
+and a forward outpost, if you will.
+
+47:32.260 --> 47:34.260
+And that was, to me,
+
+47:34.260 --> 47:35.260
+the most dramatic event,
+
+47:35.260 --> 47:38.260
+and the most dramatic thing that was done during that mission.
+
+47:38.260 --> 47:40.260
+And we started a lot of problems.
+
+47:40.260 --> 47:42.260
+We really didn't know where we were.
+
+47:42.260 --> 47:45.260
+I mean, clearly we knew within a some diameter
+
+47:45.260 --> 47:47.260
+of where we were on the moon.
+
+47:47.260 --> 47:49.260
+But we landed downstream.
+
+47:49.260 --> 47:50.260
+Didn't know where we were.
+
+47:50.260 --> 47:52.260
+We were going to have to find out where we took off the next day.
+
+47:52.260 --> 47:54.260
+And we left all those problems with Glenn Loney,
+
+47:54.260 --> 47:57.260
+who had about 10 different sources to tell him
+
+47:57.260 --> 47:58.260
+where we were on the moon.
+
+47:58.260 --> 47:59.260
+I don't think any agreed.
+
+47:59.260 --> 48:01.260
+And he finally decided.
+
+48:01.260 --> 48:02.260
+And we kept going.
+
+48:02.260 --> 48:05.260
+So I'll turn that back to him.
+
+48:05.260 --> 48:06.260
+Go ahead.
+
+48:06.260 --> 48:08.260
+This is right by the interstate, Steve.
+
+48:08.260 --> 48:13.260
+Yeah, I recall once going to one of those changes,
+
+48:13.260 --> 48:14.260
+shift press conferences.
+
+48:14.260 --> 48:18.260
+And I was having a terrible time trying to explain anybody
+
+48:18.260 --> 48:20.260
+that could figure out how to go to the moon
+
+48:20.260 --> 48:23.260
+and land didn't know where we were on the moon.
+
+48:23.260 --> 48:27.260
+But that was a situation for a while.
+
+48:27.260 --> 48:31.260
+Well, once Mr. Cranston, Mr. Bales and Company
+
+48:31.260 --> 48:35.260
+and Mr. Armstrong and Aldrin,
+
+48:35.260 --> 48:38.260
+you got the machine on the surface.
+
+48:38.260 --> 48:41.260
+We set out to do something else that we hadn't done before.
+
+48:41.260 --> 48:43.260
+We had played around.
+
+48:43.260 --> 48:44.260
+I shouldn't use that word.
+
+48:44.260 --> 48:46.260
+We had done EVAs in Germany.
+
+48:46.260 --> 48:49.260
+But of course, that's under weightlessness environment.
+
+48:49.260 --> 48:51.260
+Here we're in 16G.
+
+48:51.260 --> 48:54.260
+So there were a lot of things that we need to learn about that.
+
+48:54.260 --> 48:56.260
+How well can you move around?
+
+48:56.260 --> 48:59.260
+How fast can you move and so forth and so on?
+
+48:59.260 --> 49:04.260
+And let me put in one story before I get into the surface
+
+49:04.260 --> 49:06.260
+activity itself.
+
+49:06.260 --> 49:11.260
+There had been a raging debate go on for months amongst the doctors
+
+49:11.260 --> 49:16.260
+and the rest of the world about when we land on the moon,
+
+49:16.260 --> 49:18.260
+what are we going to do next?
+
+49:18.260 --> 49:21.260
+That is, are we going to take a rest cycle with the crew?
+
+49:21.260 --> 49:25.260
+Are we going to go ahead and prepare to get out?
+
+49:25.260 --> 49:29.260
+Well, the doctors in their judgment felt that certainly we
+
+49:29.260 --> 49:32.260
+should have them go to sleep.
+
+49:32.260 --> 49:35.260
+There were a number of us who felt that that was going to be
+
+49:35.260 --> 49:39.260
+very difficult for anybody to do, having landed on the moon
+
+49:39.260 --> 49:44.260
+for the first time in the world to immediately go to sleep
+
+49:44.260 --> 49:47.260
+without some help.
+
+49:47.260 --> 49:51.260
+So anyway, the doctors won the debate.
+
+49:51.260 --> 49:56.260
+And it was baseline that we would in fact have a sleep period
+
+49:56.260 --> 49:58.260
+before we did the EVA.
+
+49:58.260 --> 50:01.260
+Now, they pointed out several of them, Mr. Griffin,
+
+50:01.260 --> 50:04.260
+is pointed out that I'm the elder of this group.
+
+50:04.260 --> 50:08.260
+And I was also clever enough to believe that they weren't
+
+50:08.260 --> 50:11.260
+going to do that when they got there.
+
+50:11.260 --> 50:15.260
+So we had prepared for that eventuality also,
+
+50:15.260 --> 50:19.260
+that if a decision was changed and they decided to go ahead
+
+50:19.260 --> 50:23.260
+and do the EVA, we'd be ready to support.
+
+50:23.260 --> 50:27.260
+Well, sure enough, not too long after they had landed and got
+
+50:27.260 --> 50:30.260
+all the switches taken care of and settled down a bit.
+
+50:30.260 --> 50:35.260
+We get this radio message that Houston, we think we'd
+
+50:35.260 --> 50:37.260
+like to go ahead and do the EVA.
+
+50:37.260 --> 50:40.260
+And I'm smiling, you know, because I knew that was going to happen
+
+50:40.260 --> 50:43.260
+and I'm kneeling to doctors.
+
+50:43.260 --> 50:46.260
+And of course, we said yes.
+
+50:46.260 --> 50:49.260
+Well, the only thing in my mind that I did wrong was I had been
+
+50:49.260 --> 50:54.260
+up like everybody else for this whole preparation for descent
+
+50:54.260 --> 50:57.260
+and lunar descent and I had fixed myself where I had
+
+50:57.260 --> 51:00.260
+to pull a whole shift on the moon.
+
+51:00.260 --> 51:02.260
+So it made for a long day.
+
+51:02.260 --> 51:06.260
+But anyhow, it took a while being first time we did it.
+
+51:06.260 --> 51:11.260
+And the limb was very cramped to get all that gear on and checked out.
+
+51:11.260 --> 51:15.260
+And as I recall, it seemed like forever to get the cab and define the
+
+51:15.260 --> 51:18.260
+depress to the point where they could open hatch at the last two
+
+51:18.260 --> 51:22.260
+tenths of a PSI or something that seemed like it took forever.
+
+51:22.260 --> 51:29.260
+But Neil got out and I recall my own reaction when he got out
+
+51:29.260 --> 51:33.260
+and on to the surface of the moon and looking at it on that TV,
+
+51:33.260 --> 51:36.260
+I said, this just doesn't seem real.
+
+51:36.260 --> 51:39.260
+You know, and here I am sitting here in the middle of all this.
+
+51:39.260 --> 51:42.260
+And it just didn't seem real.
+
+51:42.260 --> 51:44.260
+But in fact, it was.
+
+51:44.260 --> 51:46.260
+They said about to do their job.
+
+51:46.260 --> 51:49.260
+And as usual, we had overprogrammed the timeline.
+
+51:49.260 --> 51:53.260
+We had put more stuff in there than three people could probably do.
+
+51:53.260 --> 51:55.260
+That they did the best they could.
+
+51:55.260 --> 52:01.260
+They also had to stop and take a phone call from somewhere down here in the White House area.
+
+52:01.260 --> 52:05.260
+And we had a carefully laid out plan that we were going to have.
+
+52:05.260 --> 52:09.260
+I believe there were two types of samples, documented samples, which took quite a
+
+52:09.260 --> 52:14.260
+bit of time and what we call grab samples where you just grab raw.
+
+52:14.260 --> 52:21.260
+Now, we only had about two hours and 30 minutes program to be out on the moon for this first flight.
+
+52:21.260 --> 52:24.260
+And again, we were playing it very conservatively.
+
+52:24.260 --> 52:30.260
+We could have stayed longer, but we felt let's do what we have to do that is of significance,
+
+52:30.260 --> 52:38.260
+which was deploy a scientific package and gather some samples and get back in while we're ahead.
+
+52:38.260 --> 52:46.260
+So I think the guys did a fantastic job of doing the best job they could in a new environment,
+
+52:46.260 --> 52:49.260
+in a very compressed timeline.
+
+52:49.260 --> 52:58.260
+And with the distractions which were not of their doing, I still think they came out of it with really a wealth of information.
+
+52:58.260 --> 53:01.260
+And they really did a great job.
+
+53:01.260 --> 53:05.260
+The lunar surface thing, again, was entirely new to us.
+
+53:05.260 --> 53:13.260
+We'd spent many hours practicing it, it's difficult to simulate that, but we could in some ways.
+
+53:13.260 --> 53:21.260
+And we even had practice astronauts that would get on the phone with us.
+
+53:21.260 --> 53:28.260
+And we'd play the what if games on the moon, just like we would do in rendezvous or any other operation.
+
+53:28.260 --> 53:33.260
+Again, we spent about two hours and 35 minutes, I believe it was.
+
+53:33.260 --> 53:40.260
+I was very, very relieved to see that cabin start to pressurize to get them back in there.
+
+53:40.260 --> 53:49.260
+At that point, I felt like we had done it, because I had complete confidence that we could in fact rendezvous with the mothership,
+
+53:49.260 --> 53:55.260
+and we had done those things before, and I was very confident that we had it made at that point.
+
+53:55.260 --> 54:01.260
+I was always very nervous when they were outside the spacecraft in Earth orbit or on the moon,
+
+54:01.260 --> 54:10.260
+because when you stop and think that one seems like flimsy suit that you guys wear.
+
+54:10.260 --> 54:16.260
+And unluckily as a flight director, I seemed to manage to have to terminate most of the EVAs in Germany.
+
+54:16.260 --> 54:18.260
+So I was kind of nervous about that whole operation.
+
+54:18.260 --> 54:26.260
+So I was very glad when they got back in and pumped that cabin up, and you had two very, very tired astronauts at that point.
+
+54:26.260 --> 54:29.260
+And a heck of a lot of tired ones on the ground, too.
+
+54:29.260 --> 54:40.260
+And with that point, I think we did in fact manage to get them to sleep for a while, and Glenn Schiff was to get them back to the command service module.
+
+54:43.260 --> 54:47.260
+Getting ready for Ascent and Lunar Orbiter rendezvous.
+
+54:48.260 --> 54:50.260
+There was one thing about Ascent.
+
+54:50.260 --> 54:53.260
+There are no other alternatives.
+
+54:53.260 --> 55:01.260
+The Ascent Engine, the separation sequence from the D-Send stage, which represented sort of a platform from which to launch the Ascent stage,
+
+55:01.260 --> 55:05.260
+was just one way, there was just one way to do it, and it had to work.
+
+55:05.260 --> 55:11.260
+For that reason, the Ascent Engine got a lot of attention like a lot of other things did,
+
+55:12.260 --> 55:17.260
+but a lot of attention, and there was a great deal of worry about it, et cetera, et cetera, in terms of getting off the moon.
+
+55:17.260 --> 55:28.260
+For me, and probably for the flight controllers in the MCC, our job is kind of outlined by what decisions might we have to make.
+
+55:28.260 --> 55:36.260
+For example, during the launch phase, there's a possibility of all kinds of abort decisions or other kind of decisions have to be made.
+
+55:37.260 --> 55:41.260
+And it kind of loads you up with a set of possibilities, a set of options, a set of dealing with them.
+
+55:41.260 --> 55:43.260
+Countdowns are like that, too.
+
+55:43.260 --> 55:48.260
+But for us, at least, and especially for me, on the lunar surface, we didn't have any choices to make.
+
+55:48.260 --> 55:53.260
+We just had to get the thing all set up right, be sure all the navigation was right, and then go for it.
+
+55:53.260 --> 55:56.260
+There were any decisions to make, the thing had to work.
+
+55:56.260 --> 56:02.260
+And that's what happened. The Ascent Engine worked fine, and when we finished with it, we were in Lunar Orbiter.
+
+56:02.260 --> 56:14.260
+At that time, I felt we were on the downhill side of the mission because this team of people here and the astronauts, we had done EVA every way from Sunday at Night EVA, rendezvous.
+
+56:14.260 --> 56:19.260
+Every way from Sunday during a Gemini program, we did them upside down, backwards, left-handed, right-handed.
+
+56:19.260 --> 56:23.260
+And we really felt like we knew how to do that.
+
+56:23.260 --> 56:29.260
+And besides that, we had Buzz Aldrin on board who had invented the major part of the techniques that we used.
+
+56:29.260 --> 56:34.260
+So we were very confident about our ability to do the Lunar Orbiter rendezvous.
+
+56:34.260 --> 56:38.260
+Apollo Tan, of course, had added to that in the Lunar Environment.
+
+56:38.260 --> 56:43.260
+So getting through the Ascent phase was just no choice, no decisions to make.
+
+56:43.260 --> 56:48.260
+Just hang on to the console for six minutes and pray.
+
+56:48.260 --> 56:52.260
+And we did that. The Lunar Orbiter rendezvous went well.
+
+56:52.260 --> 57:04.260
+And then the guys started transferring back into CSM for the eventual return back to this planet that we live on called Earth.
+
+57:04.260 --> 57:10.260
+Thank you. We've gotten ourselves back into Lunar Orbiter. Do you want to continue the mission?
+
+57:10.260 --> 57:13.260
+Do you want to start skipping around to other missions?
+
+57:13.260 --> 57:19.260
+Well, I think it's probably time to skip around a little bit.
+
+57:19.260 --> 57:25.260
+Understandably, we have focused on Apollo 11 because that's what we celebrate at this time.
+
+57:25.260 --> 57:31.260
+But I think what we did after 11 in a very summary wake and just said,
+
+57:31.260 --> 57:34.260
+was nothing short of fantastic.
+
+57:34.260 --> 57:38.260
+We went back, you know, one flight we aborted.
+
+57:38.260 --> 57:43.260
+And let me tell you about in keeping with what Steve said about Jean Cran.
+
+57:43.260 --> 57:47.260
+It was the mission that he was the lead on. It was always the toughest.
+
+57:47.260 --> 57:52.260
+The really tough mission was Apollo 12.
+
+57:52.260 --> 57:56.260
+That's because I was the lead flight director on Apollo 12.
+
+57:56.260 --> 58:05.260
+And it was an interesting flight. We need to say kind of an example of every one of these flights had a very every one of them we could sit and talk particularly.
+
+58:05.260 --> 58:12.260
+This crowd up here in some of you could talk about every one of these flights in great detail because they all had their own personality.
+
+58:12.260 --> 58:18.260
+Apollo 12 was one you may remember we got hit by lightning about 50 seconds after after launch.
+
+58:18.260 --> 58:20.260
+Was it a G fly director?
+
+58:20.260 --> 58:24.260
+Yeah, Cliff says with an eggie flight director.
+
+58:24.260 --> 58:30.260
+And we handle that. We thought we were going to have to abort.
+
+58:30.260 --> 58:37.260
+Thank God the Saturn 5 kept working and got us into Earth orbit.
+
+58:37.260 --> 58:54.260
+It was a very interesting mission in that we went and landed did a pinpoint landing next to the surveyor spacecraft which had been sent up their unmanned seven years earlier in the crew of Conrad and Bean actually got out and got some pieces off of that spacecraft.
+
+58:54.260 --> 59:04.260
+And picking up on what Steve said with our uncertainties about the moon's home of genuity the idea that it's not a good.
+
+59:04.260 --> 59:18.260
+Spirit until you know all of the where the mass cons are and we weren't sure we could do it now I was the lead flight director for that flight and Cliff Charles worth did the landing phase.
+
+59:18.260 --> 59:26.260
+And he's never forgiven me we had a custom in those days when you were lead flight director the first time you got the NASA exceptional service metal.
+
+59:26.260 --> 59:31.260
+And I got my metal in the salutation.
+
+59:31.260 --> 59:39.260
+Lods me for performing the pinpoint landing that Clifford was the flight director for and he's never forgiven me for it.
+
+59:39.260 --> 59:43.260
+One of these days I'm going to give you that metal just so you can have it.
+
+59:43.260 --> 59:58.260
+But anyhow 13 turned out to be a real excitement because of the problem that we had with the oxygen tank blowing up on the way to the moon we had to abort 14 15 16 all had their problems and their successes.
+
+59:58.260 --> 01:00:16.260
+And I think celebrating Apollo 11 like we are at this time is a great time to reflect on every one of those missions because it it's the only time that we can talk about the whole program and kind of celebrate together because we don't celebrate those other flights the way we did it will this one.
+
+01:00:16.260 --> 01:00:22.260
+But I think I just wanted to get that plug in there for those other missions it came after.
+
+01:00:22.260 --> 01:00:41.260
+Thank you Jerry. Thank you Jerry. I'm going to jump in here for just a moment and say you've heard a lot from Cliff and from the others about the moral strength and courage that was required on the part of the flight directors and their team of
+
+01:00:41.260 --> 01:00:50.260
+literally hundreds of individuals many of whom most of whom were very young to make the decisions necessary to go to the moon and successfully carry it out.
+
+01:00:50.260 --> 01:00:58.260
+And I'll share a story with you that actually comes to personal story but it comes from that time.
+
+01:00:58.260 --> 01:01:20.260
+My son was two and three years old in those years and one day he he was discovered in the kitchen with a large box of dirt and pebbles from our backyard which he had dumped on his mother's kitchen.
+
+01:01:20.260 --> 01:01:30.260
+And I inquired of three year old son what he was doing dumping this dirt in his mother's kitchen and he informed me that it was not dirt.
+
+01:01:30.260 --> 01:01:38.260
+It was earth rocks he had been collecting earth rocks.
+
+01:01:38.260 --> 01:01:58.260
+I stopped it he it was a good ploy because it really stopped me from home and I'd never heard the term earth rocks before but it made sense and he as far as I know had invented that as had every other young person his age had had invented that during those years.
+
+01:01:58.260 --> 01:02:15.260
+Well because of his years I also from time to time would read bedtime stories and one of his favorite was entitled James and the giant peach and there may be one or two of you in audience who's not immediately familiar with that book.
+
+01:02:16.260 --> 01:02:32.260
+It starts out its first sentence is at the age of six James was at the London zoo with his parents when a crazed rhinoceros escaped and ate his parents.
+
+01:02:32.260 --> 01:02:44.260
+You may feel sorry for his parents don't their problems were over in 15 seconds but James had to go live with his and so on the story begins.
+
+01:02:44.260 --> 01:03:01.260
+There's a underlying meaning in that I think and this feeling is is shared by all astronauts that when if and when something goes wrong in a space mission knock on wood that it doesn't the astronauts problems could be over in a few seconds.
+
+01:03:01.260 --> 01:03:30.260
+But the responsibility lies with the flight directors and their team and that's very well recognized by all of us in the business and the stories that we all including myself are listening to today I kind are based on that thought that that philosophy that realization that does not mean that all the stories are true but Steve you had mentioned to me earlier.
+
+01:03:30.260 --> 01:03:50.260
+That there is is a handbook that all flight directors and their team uses called mission rules and one could naively think that there's nothing to this business of being a flight director you just look up and owners manual the mission rule book what to do in this case or that case.
+
+01:03:50.260 --> 01:04:01.260
+And when you learn that the mission rule book is how many rules do we operate did we operate with in Apollo would you get.
+
+01:04:01.260 --> 01:04:15.260
+It's about that thick and Steve said he had a very a rule he was very fond of known as one day six and maybe you could explain something about the way the rules work in the mission control.
+
+01:04:15.260 --> 01:04:44.260
+They never read the mission rules I was on the one had to read these guys were flight directors but they do know this rule and it says I can paraphrase that I gave it to to Joe but that paraphrase it says the flight director at his discretion may take any action needed to come to conduct the successful completion of a mission which means that if the flight director so decides he changes those rules to make the thing work out right and that's a responsibility to the three gentlemen of head and and.
+
+01:04:44.260 --> 01:04:49.260
+And over the years and if conducted.
+
+01:04:49.260 --> 01:04:58.260
+I said I have a number of questions asked before I start I wonder if maybe we could start to have one or two from the audience.
+
+01:04:58.260 --> 01:05:13.260
+Yes right there in the middle and speak as loudly as we can we won't use we won't use microphones by the way once we start to tell stories believe me we can continue till this time tomorrow and maybe we will you're welcome to stay.
+
+01:05:13.260 --> 01:05:41.260
+Tell about one one thirty maybe a little before two and we'll more or less officially break up those of you who have other things to do right now we won't be at all offended if you go on and do those other things however there will not be a movie starting in here in 15 minutes we're going to stay here for a little while longer question right in the middle.
+
+01:05:41.260 --> 01:06:04.260
+I think some problems with docking in Apollo was it Apollo 11 I believe that was 14 I think we did a little bump on 11 to give it 14 we had a problem why I think one one of them was what's came before the module was picked up for the first time and the whole mission was in jeopardy because it was not.
+
+01:06:04.260 --> 01:06:18.260
+Apollo 14 we had a problem when they separated and came back in to get the limb out of the S4 be adapted they couldn't dock but but the Glenn thinks he's right that we did have a bridge on 11 I don't remember.
+
+01:06:18.260 --> 01:06:34.220
+Oh no that you're thinking of Apollo 10 in Apollo 10 we had the sequence of lunar orbit rendezvous between what the spacecraft were called Charlie Brown Snoopy as a matter of fact with the times daffron and a gene seren in the lunar module and there was
+
+01:06:34.220 --> 01:06:47.220
+a violent maneuver it wasn't exactly around the time of docking it was a misplaced switch and when they went into a configuration that tested the switch it was in the wrong place and the spacecraft did something funny leading to some of gene seren in most famous profanity.
+
+01:06:47.220 --> 01:07:02.220
+You know one thing that is important though and I saw this on a TV show the other night that did report some kind of while maneuver on 11 and I didn't when I saw it I couldn't remember that.
+
+01:07:02.220 --> 01:07:08.220
+So I don't know if that's where you may have picked that up but but I don't think it happened.
+
+01:07:08.220 --> 01:07:18.220
+I don't know that flight right here.
+
+01:07:18.220 --> 01:07:31.220
+The question was what decisions were required what discussions held with in the case of Apollo 12 meaning after it had been hit by lightning and so on.
+
+01:07:31.220 --> 01:07:43.220
+Let me quickly set the stage for you we launched in about in about 50 seconds after launch we didn't know at the time we'd been hit by lightning although while we were still under powered flight.
+
+01:07:43.220 --> 01:07:54.220
+The conrad said I think we may have been hit by lightning and later photos and analysis shows we probably were a big zorch I mean a big one.
+
+01:07:54.220 --> 01:08:12.220
+What it did is that it we provided power to the spacecraft by fuel cells that provided the power and those were connected to the distribution system through a series of circuits that in fact I think even had some relays in it.
+
+01:08:12.220 --> 01:08:23.220
+Mechanical relays in when it when it when the lightning hit it knocked all of those fuel cell power off off of the main distribution system inside the spacecraft.
+
+01:08:23.220 --> 01:08:40.220
+So the spacecraft immediately all the lights dimmed all the warning lights came on in the only thing that was providing any power at all were the entry batteries which were storage batteries that we had we also put on for launch had those batteries not been on I mean they would gone dark.
+
+01:08:40.220 --> 01:08:46.220
+But they did they were able to have enough power to communicate and to see their caution warning.
+
+01:08:46.220 --> 01:08:59.220
+Thank God as I said earlier the the Saturn was steered by a thing called the instrumentation unit which was a separate guidance system down in the Saturn and it was not affected.
+
+01:08:59.220 --> 01:09:12.220
+So that as soon as it happened I know the first thing I looked at were the engines to see if they were still burning they were in the trajectory that these guys were watching was going in the right right we were still climbing uphill.
+
+01:09:12.220 --> 01:09:23.220
+But I need immediate thought was we may have to abort but if we do let's don't get panic about it let's do it as high up as we can make sure everything has enough time to work.
+
+01:09:23.220 --> 01:09:50.220
+Young Ecom by the name of John Aaron who now is runs the space station project here at JSC had seen a case similar going back to some of the simulation work that had been done wasn't exactly the same but he had seen a case in a simulation that he wondered about and he wondered if this might be the case that he had seen.
+
+01:09:50.220 --> 01:10:02.220
+The worst thing that happened to us on the ground is we lost all our data it was absolutely went to garbage so we had no telemetry so we couldn't help them until we got something back so that we could see what was going on.
+
+01:10:02.220 --> 01:10:19.220
+John made a switch call I'll never forget it SCE to ox those of you that are electronics signal conditioning equipment to auxiliary in that set up a different signal conditioning equipment for this radio data that would come back to us.
+
+01:10:19.220 --> 01:10:28.220
+We asked the crew to go to that auxiliary position they did this was probably 40 to 45 seconds after we've been hit by lightning.
+
+01:10:28.220 --> 01:10:44.220
+They went to the auxiliary position and voila the data was restored we could see all of the telemetry data at that point the crew was still in would tell you they were they had no idea what to do because they had no data either.
+
+01:10:44.220 --> 01:11:13.220
+So but on doing that then John Aaron could see that the fuel cells were not providing any power to this distribution system so the first thing he said was have them reset the fuel cells which was just a momentary switch on each of three cells and as soon as he did spacecraft lights came back up a lot of caution and warning which was primarily power oriented those lights went out and about the only thing we had as a problem at that point was that the guidance system was going to be going on.
+
+01:11:13.220 --> 01:11:24.220
+The guidance system which these guys depended on in the in the command module had lost its reference and it was tumbling and so forth.
+
+01:11:24.220 --> 01:11:42.220
+We went on into orbit and as I recall what we take two revs before we went TLI I think we two revs before we go transliner we actually extended a rev and to give us a little more time to look at the systems to see if we could if we were in good enough shape to go on.
+
+01:11:42.220 --> 01:11:52.220
+We got the platform realigned so that we had a good guidance system we did some checks checking it to drift characteristic and it looked okay.
+
+01:11:52.220 --> 01:12:11.220
+And then I think John Aaron was the guy that really that really made this happen he said you know if we would go through a check very similar to what we would have to do for trans earth injection that is to say if we could verify essentially the checklist and we could verify the check list.
+
+01:12:11.220 --> 01:12:20.220
+The check list to do the burn that we get us out of of lunar orbit and headed back home.
+
+01:12:20.220 --> 01:12:32.220
+We ought to be ready to go we don't know what's happened to the limb but at least we could verify that this the CSM is okay and then we could get into orbit and out of orbit at the moon.
+
+01:12:32.220 --> 01:12:46.220
+So that's what we did we took it we took an extra rev to do it in earth orbit and we went through a checklist if we powered up gimbal motors and all that kind of stuff to make sure that the SPS the service propulsion system in the back of the command service module is right.
+
+01:12:46.220 --> 01:13:01.220
+We did every electronic check we checked all the alternate circuits on calm and all that all work fine and at that point we kind of let each other and said let's do it let's go on to the moon.
+
+01:13:01.220 --> 01:13:30.220
+I never will forget Chris Kraft one statement to you when he walked we were in the middle all this and some of you have seen it real and some of you have seen it on television and others that people have headsets on that kind of haggard and they're walking around and they're looking around and in the middle all this craft came down and he put his hand on my shoulder and said young man we don't have to go to the moon today that's all he said and I said yes sir.
+
+01:13:30.220 --> 01:13:48.220
+And but we had the world turned on the program offices and all that that's the way the thing that the plant the contractors back at the plant all got involved this thing and it finally I guess the final decision was we could see no reason not to go.
+
+01:13:48.220 --> 01:14:12.220
+And let me add the final footnote after that problem it's very very much like the follow 14 docking problem which I was also involved in after that problem is probably the smoothest mission we've ever had we had virtually no other problems but seem like every mission had at least one place where you'd say good gosh you know how can we ever had that happen.
+
+01:14:12.220 --> 01:14:41.220
+But after that follow 12 went ticky but really good Jerry I'd like to add something to that I sat in the control center watching Jerry and his team go through this and one of the things that occurs to me now and perhaps did then I might not have thought of it this way was that this country has always been very blessed it seems to spit out the right man at the right time or the right woman at the right time to meet some kind of a challenge.
+
+01:14:41.220 --> 01:15:09.220
+And we've been very blessed in that regard in the 200 some years this country's been around Apollo 12 there in my opinion there is not one other individual in the entire world who could have made the call at the Comt council other than the man who was there John Aaron he's the only man I did I knew of it was able to put that together in the time he did and make exactly the correct call having prepared himself to do so it was not luck.
+
+01:15:09.220 --> 01:15:22.220
+I would say the same of Jerry and his whole team they were very common very professional we replayed that lightning strike and it scared to live in Jesus as we saw this thing coming out the tail of the rocket.
+
+01:15:22.220 --> 01:15:38.220
+And the flight crew they they settle down and got things back underway and Jerry alluded to it here on the earth orbit stuff but it was a funny feeling in the control center and we talk in terms of platforms and computers and fuel cells and control center.
+
+01:15:38.220 --> 01:15:56.220
+And the control systems and a lot of complicated stuff but when they got done with this checklist and the spacecraft and the rocket looked to be okay it was just kind of looked around at each other and you know the decision was made on the basis of well what are we going to do now.
+
+01:15:56.220 --> 01:16:07.220
+This thing works so as long as we're up here let's get on with it and it was kind of a it was almost typical of the decisions it was characteristic of the decisions that were made in the Apollo program.
+
+01:16:07.220 --> 01:16:16.220
+And that is yeah there are risks with anything we do let's get on with it and that's the kind of decision Jerry's team made in that it was a pleasure to watch it.
+
+01:16:16.220 --> 01:16:18.220
+I think they have come in.
+
+01:16:18.220 --> 01:16:19.220
+Oh well okay.
+
+01:16:19.220 --> 01:16:21.220
+You're going to talk to me about that little?
+
+01:16:21.220 --> 01:16:22.220
+No no.
+
+01:16:22.220 --> 01:16:31.220
+When shortly after they were on the lunar surface we lost the TV camera.
+
+01:16:32.220 --> 01:16:53.220
+Now I thought about that a lot afterwards and I said of all of the astronauts that I know that couldn't have happened to the more perfect crew because we had Pete Conrad on the surface of the moon with no TV but yet he with his run in commentary and his whistling and humming and so forth.
+
+01:16:53.220 --> 01:16:56.220
+It was almost as good as having the TV.
+
+01:16:57.220 --> 01:17:01.220
+Yeah another thought to just gave him out of that 12 was interesting.
+
+01:17:01.220 --> 01:17:10.220
+I some of you know this said earlier I went to him and Al Bean went to University of Texas and we had a pretty good running battle going on good naturedly.
+
+01:17:10.220 --> 01:17:17.220
+Two things happened on that flight that that were both kind of gothious from one Aggie to it to an old T-Sipper.
+
+01:17:17.220 --> 01:17:27.220
+One is that one morning I woke him up by playing the Aggie war him to him which neither one of them had ever forgiven me for.
+
+01:17:27.220 --> 01:17:36.220
+But the other thing that was his back of this TV thing Al Bean was the guy remember that it got pointed at the sun and he had to watch it that time and it burned it out.
+
+01:17:36.220 --> 01:17:40.220
+So I never let him hear of the end of that one either.
+
+01:17:40.220 --> 01:17:57.220
+Anyway one of the footnote to that thing about John Aaron and picks up on something I said earlier here was this guy making this critical call and I agree with Glenn I think Cliff and Steve would probably Joe too that he was the right guy to be there and the right guy to do it may have been the only one I don't know.
+
+01:17:57.220 --> 01:18:08.220
+But if I recall correctly I think he was 25 years old and graduate of Northeast Oklahoma arm boy interesting twist.
+
+01:18:08.220 --> 01:18:20.220
+I've got to continue on Apollo 12 but it's just a footnote to these stories that occurred two missions later.
+
+01:18:20.220 --> 01:18:23.220
+The command module pilot on 12 was Dick Gordon.
+
+01:18:23.220 --> 01:18:34.220
+He did not go down to the moon service but I would guess he had the brunt of the checklist to come home and he was one one busy astronaut during that time.
+
+01:18:34.220 --> 01:18:55.220
+And he probably was put on the on the banquet circuit after that mission for Apollo 13 I'm not sure where Dick was but out of just coincidence he and I were together to see the launch of Apollo 14 at in the very remote viewing area in Florida only a handful of people around Dick was one of them I was there.
+
+01:18:55.220 --> 01:19:05.220
+And because of the lessons learned from 12 of course the mission rule and everything else was changed with regard to when do we launch Saturn fives with regard to clouds overhead.
+
+01:19:05.220 --> 01:19:18.220
+I can't cite it the way Steve could but we were a bit more conservative Apollo 14 came counted down everything was beautiful it was a gorgeous day.
+
+01:19:18.220 --> 01:19:44.220
+Almost not a cloud inside and right as it came to the crucial minutes a little puffy white cloud like out of a Casper the ghost movie came floated right over the launch escape tower of that rocket and the launch was held and I don't I don't not know how long it was held I would guess 10 minutes or so but every minute Dick Gordon would look out.
+
+01:19:44.220 --> 01:19:55.220
+Shout to the wind shake these fists and shout chicken crew chicken crew.
+
+01:19:55.220 --> 01:20:05.220
+Now is that what he said or words to that effect.
+
+01:20:05.220 --> 01:20:23.220
+Jerry you mentioned there was probably not a mission that went by Apollo mission that didn't have one major event we finished 12 would someone want to start with 13 or shall we come back to that later it definitely had a major event.
+
+01:20:23.220 --> 01:20:48.220
+Well Apollo 13 was a flight that we had a problem about 2 thirds of the way the moon want to tank blew up and we in effect lost the mothership the command service module and had to move into the lunar module and bring it back I would perhaps wait on to discuss if anybody wants to the technical details of that.
+
+01:20:48.220 --> 01:21:11.220
+But an observation set of observations perhaps is that by that time 1970 April 1970s matter of fact it was April 13th Apollo 13 we should have known better Friday Friday also Joe Allen was in the control center my god how much could be against this.
+
+01:21:11.220 --> 01:21:30.220
+I would look at the events of the flight were frantic I came on duty the tank blew up when Jean was on duty and he stayed on for about an hour trying to sort out what was going on and it took us a while to sort it out and when my team came on we stayed on for about 10 hours.
+
+01:21:30.220 --> 01:21:59.220
+And we had we had an absolutely superb flight control team we had to support everybody in our states works on the space hardware every every factory was energized to help us and I look back on that flight and I realized that we if one had gone out of his way to try to script a case where we had where we would come as close as possible to lose in the space graph and losing the crew they could not have come up with a more test.
+
+01:22:00.220 --> 01:22:20.220
+And the response of the people who worked together for about a decade by that time the people on the ground the program offices the engineering teams and the astronauts and the confidence that we had in each other.
+
+01:22:20.220 --> 01:22:49.220
+And it just comes out as almost for me a brilliant shining light although it was was something of a failure someone might call it a failure but for us in the operations business it was the maximum test I mean it was an ultimate test of our ability to deal with the problem and deal with it successfully and the team of people that lived in work here at the center handle that test with the grace and dignity they handled it with the com professionalism.
+
+01:22:50.220 --> 01:23:10.220
+They were absolutely outstanding I mean I look back on it and I think the 80 some hours we worked after that if we never worked any other 80 hours in our whole life and they and they paid us for our rest of our life we were a little bit underpaid.
+
+01:23:10.220 --> 01:23:38.220
+It really was a terrific team effort and it really was inspiring it was inspiring to see how how calmly and how professionally and how accurately and how well people did with what was an extreme ultimate test survival of a crew in the space graph and people here came through at gangbusters team I talked about earlier at 10 years of experience it came through this team was right there.
+
+01:23:40.220 --> 01:23:50.220
+Questions about 13 or anything else for that matter yes.
+
+01:23:50.220 --> 01:24:16.220
+The question is about the oxygen supply aboard the command module and the service module lunar module on Apollo 13 and how was that supply stretched those of you who are not that familiar with the mission may not know that the oxygen tanks that fed the command module actually exploded.
+
+01:24:16.220 --> 01:24:21.220
+So a good good portion of the oxygen was consumed in the explosion.
+
+01:24:21.220 --> 01:24:38.220
+We had a small tank of oxygen in the command module outside of the cryogenic tanks a small tank that was called the surge tank used mostly for entry when the cryogenic tanks were gone away but in addition to that we had a lot of oxygen available for breathing in the lunar module.
+
+01:24:38.220 --> 01:25:07.220
+So the lunar module oxygen was really the source that kept the crew alive during the during the 80 some hours that it took to return the limiting parameter that we were dealing with really was the water that we had on board the lunar module which was used for cooling because it was built for a certain amount of stay time on the moon with a certain power configuration and we extended it a great deal in order to to bring off all of the maneuvers in the power.
+
+01:25:08.220 --> 01:25:35.220
+Power up that we had to have in the lunar module to carry this crew and command service module back there so the limiting parameter was the cooling we were struggling to keep the electrical loads low and therefore the requirement for cooling water low and it was the thing that always text us in terms of what option should we exercise options to burn the engine usually took a lot of power for the guidance control system and the propulsion systems etc.
+
+01:25:35.220 --> 01:26:04.220
+So we were likeizers when it came to to a meadering out the checklist in terms of what we're going to do because of our concern for using up the limb water it was the critical parameter for the limb the next big critical parameter was this poor old command module was frozen cold we never turned it off like that before and jeans team had to get off line and figure out how to activate bring the command module back in and the rest of us who stayed working the shifts in the flight.
+
+01:26:05.220 --> 01:26:13.220
+New that the change team I think Steve worked on that team to figure out how to get the command module activated so.
+
+01:26:13.220 --> 01:26:34.220
+We had plenty to worry about but oxygen wasn't the toughest one that we had it was less limiting than some of the other things back back while we had the little module still connected we had all oxygen we could ever want is only after we had to shut it off and get rid of it that you had to use this stored oxygen in the cabin and a little bit of that entry tank in fact to pick it and we may not want to carry the.
+
+01:26:34.220 --> 01:27:03.220
+We may not want to carry this much further but we use the limb in what we call a lifeboat mode and it was a real systems exercise and if there was ever a flight you know a lot of times we had guidance and trajectory and I mean like the landing on the first landing on the moon and all that that was the key Apollo 13 was probably the ultimate systems exercise that we may have any flight that we've ever done before our sense.
+
+01:27:03.220 --> 01:27:32.220
+Because we literally as is Glenn said when they bailed out of the command module went over into the limb to live they just powered it down by turning everything off and I mean cold so they said there was actually kind of a when they went back in there kind of almost it felt like a seller it was moist and it was cold and even some spots ice into the thing just literally kind of froze up and they were over in the lunar module with hatch closed.
+
+01:27:32.220 --> 01:28:01.220
+Just living off the lunar module at an entire time they even had the crew powered themselves down to they didn't do much they were trying to preserve metabolic uses of oxygen water everything else so it was a real that's a real thrill but you know it didn't you feel I I felt pretty comfortable that we had that thing in tow but by the time they got out of the command module and got over into the limb.
+
+01:28:02.220 --> 01:28:31.220
+And we saw and then we got the first chance in Glenn and I were working on these teams that were continuing to work while Jean was off trying to figure out how to bring that thing back up once we kind of got everything understood I felt pretty comfortable that we were going to be alright as long as we kept the guidance system up in the limb which was a big test that we did later on right before we went behind the moon and but it certainly got our attention.
+
+01:28:31.220 --> 01:29:00.220
+I have always been remarked at the number of acronyms that are used in the space business and I remember one that came out of conversations on the loop dr. Lennie and I'm don't I'm sure it did not go up to the spaceship but it had to do with something that Steve may have been some of your responsibility to get back to the earth the lunar module.
+
+01:29:01.220 --> 01:29:29.220
+Was it was burned is am I correct in that and the lunar module was really not intended to burn to bring a ship back to earth but it was going to be used at this time while still connected to the command module and the guidance had to be very critical in the way the burn was done and I am I correct in thinking that the stage that would burn would not gimbal.
+
+01:29:29.220 --> 01:29:57.220
+Maybe it's neither here nor there but in any case it was going to be a critical burn and so critical that the position of the astronauts even in the ship or was being considered and those of you who knew Jack swagger a wonderful wonderful fellow who had wound up on the mission given 24 hours notice that he was going on that mission by the way because he replaced Ken Mattingly pulled off.
+
+01:29:57.220 --> 01:30:07.220
+By the flight surgeons because he had been exposed to the measles measles that he of course never did come down with but that's beside the point.
+
+01:30:07.220 --> 01:30:14.220
+Jack was a board and Jack was a very sturdy astronaut.
+
+01:30:14.220 --> 01:30:28.220
+I would guess he was he had been a football player and he worked out frequently and he he was very strong and well built a fellow.
+
+01:30:28.220 --> 01:30:40.220
+And like many football players from time to time could could consume vast quantities of food I might say and the acronym call that I remember on the loop sometime before the burn.
+
+01:30:40.220 --> 01:30:54.220
+When something like Capcom make sure that swagger gets his F.A. over the C.G. of the spaceship before the burn.
+
+01:30:54.220 --> 01:31:22.220
+I remember the date not big always because of the 13 April the 13 but after the explosion and the ship was without any question on the way to the moon hopefully to return but the jury was still out.
+
+01:31:22.220 --> 01:31:49.220
+Jack once again who had been put on his backup pilot on the 12th of April made a call down to the the the moker to somebody please go over to his apartment get some records from his apartment and mail in an extension to the internal revenue service because he had not filed his income taxes.
+
+01:31:49.220 --> 01:31:52.220
+He was a loyal patriot.
+
+01:31:52.220 --> 01:32:00.220
+What other interesting story about right people being in the right place at the right time and it happened more than once.
+
+01:32:00.220 --> 01:32:09.220
+I follow 13 and I believe these guys would agree with me all the lunar module pilots were super people but Fred Hayes probably who is a little module pilot on 13.
+
+01:32:09.220 --> 01:32:26.220
+We all recognize probably the strongest systems guy in the astronaut court at that time knew more about the how that lunar module was wired together and all of that in the command module probably more than he should have because he ended up bugging us to death.
+
+01:32:26.220 --> 01:32:55.220
+But anyway when when when the accident happened and this was very interesting when he got back down the ground of course the ground is we all muster to and we had plots of oxygen come to find out and in Fred showed him to me after he got back he had he had his own system analysis going and when you laid what he analyzed in terms of remaining quantities time all that along side of the moon.
+
+01:32:55.220 --> 01:33:20.220
+Alongside what we had done on the ground with with all the help we had they almost laid over one for one so here was a guy that had had we lost calm I suspect Fred would have had the systems under control and probably would have figured out even how to get this command module power back at the right time another case right stuff.
+
+01:33:20.220 --> 01:33:30.220
+Question at the very back yes.
+
+01:33:30.220 --> 01:33:59.220
+That was an interesting set of calls because at the time we went to Apollo Apollo 13 in the moon it was the first time we went on what is called or what we termed it a non free return all the previous flights had been designed so the trajectory had very very tiny mid courses and if you didn't make them the design of the trajectory was such that the vehicle would swing around the moon and come back to the center of the moon.
+
+01:34:00.220 --> 01:34:20.220
+This time in order to accomplish the mission we deliberately went away from that strategy I think it was to save propellant or something so we were on the trajectory at the time of the tank blowing up such way that we were coming back to the to the earth at all we just skip by the moon and gone some other place not perhaps as nice as the earth.
+
+01:34:20.220 --> 01:34:49.220
+And we had a set of decisions to make and they were coupled in with this question of how much water we had because we didn't want to keep this lamp powered up any more than we had to so we had to go through a set of choices about what kind of maneuvers could get us back to the earth I believe there was an option that could have fired immediately and gotten us back but I think it probably bordered on use.
+
+01:34:50.220 --> 01:34:59.220
+We were using the command service module engine to do that which we couldn't power up any more and wasn't available to us otherwise we could have done that.
+
+01:34:59.220 --> 01:35:19.220
+Jerry and I spent time going over the options that we had both while he was a shot gunning on my shift and then as I handed over to him and we had a number of them but most importantly in the few hours that we had after the accident we were motivated to take the references the guidance reference that we had on the command.
+
+01:35:20.220 --> 01:35:49.220
+We had a set of the module transfer it to the lamb use the water that it took to keep those systems powered and to get a burn out of the lunar module engine so we were at least back on the track where we would return to earth and we accomplished that later by swinging around the moon a small burn on the way to the moon that put us back on one of these free return to check to reach the earth and then at the moon we had a I guess you call it a kick burn that we did that we did to accelerate the spacecraft.
+
+01:35:49.220 --> 01:36:18.220
+The spacecraft back to earth even faster than the free return would have allowed and the whole thing was a balance of how close to run on the propellant margins how close to run on the water margins but one of the considerations we had in hours immediately after the accident or the event was to try to at least get the situation stabilized and part and getting back on a free return trajectory with the relatively small lunar.
+
+01:36:18.220 --> 01:36:47.220
+A lunar engine burn was the way to do that and it was important not only technically I think it was important psychologically for the people on the ground and I think also for the crew members because they knew they were in dire straits and at least we established a threshold of we could fumble around quite a bit but maybe if we could pull off mid courses later we could still get the vehicle back to earth and that was accomplished sometime during the shift after the accident while I was on and kind of the way we were going to do that.
+
+01:36:48.220 --> 01:37:00.220
+We had to help with the psychological environment that we were dealing with with both those of us in the control center and the three fellows upstairs.
+
+01:37:00.220 --> 01:37:24.220
+Good question.
+
+01:37:24.220 --> 01:37:44.220
+Excellent question. In fact every inch of that computer was encoded. I know none of these fancy languages are anything else. I clearly depend on what kind of system we used. I'm sure that however we go back to the minute we will do it much more robustly.
+
+01:37:44.220 --> 01:37:53.220
+We will have six or seven systems instead of one and we will manage however we go to fill up whatever computer we choose to go with.
+
+01:37:53.220 --> 01:38:06.220
+The question those of you at the back was would we dare land on the moon today with a computer with a capacity of only 16K which is what the lunar module computer had.
+
+01:38:06.220 --> 01:38:19.220
+The other thing about answering that question Steve is still in the operations business Cliff and Jerry and I have moved on the program management and other kinds of management where we are concerned about how much money gets spent against what kind of requirements.
+
+01:38:19.220 --> 01:38:37.220
+I'm quite sure that we could have a computer with a million K and it would be full up and we just couldn't barely stuff all the stuff in it that we had to have and we managers would be struggling with we ops people not to overload it anymore.
+
+01:38:37.220 --> 01:38:41.220
+They just fill up.
+
+01:38:41.220 --> 01:38:55.220
+Yes.
+
+01:38:55.220 --> 01:39:09.220
+This is a question about the computer alarms that came up during the descent of Apollo 11 and how did the interplay go between crew and the flight controllers and the flight directors.
+
+01:39:09.220 --> 01:39:12.220
+Steve that's probably for you.
+
+01:39:12.220 --> 01:39:29.220
+Apollo 11 means that during the last competition cycle computer did not get through all its tasks. Now fortunately the guys that had programmed it from MIT had put the least important tasks at the end such as kudos blood.
+
+01:39:29.220 --> 01:39:33.220
+They put the navigation and the guidance up front.
+
+01:39:33.220 --> 01:39:43.220
+The crew in the landing module had very limited insight to computer they don't have three small readouts of five numbers each.
+
+01:39:43.220 --> 01:40:02.220
+So there are all those and had some guidance needles attitude they had they had some information but we had perfect parameter they had we had on the ground maybe 10 12 parameters so we're looking at 100 neighbor looking at maybe 15 and we decided before to mission that if we did get into some other thing that happened as a crew had not had.
+
+01:40:02.220 --> 01:40:28.220
+The benefit of this this day and a half long knock down drag out about what we're going to do about each one of them that we had gone through the two weeks before so we decided if any of these alarms had to happen we're going to make the call from the ground because we had more insight and that's what happened.
+
+01:40:28.220 --> 01:40:39.220
+I did and conveyed it and conveyed it to the flight.
+
+01:40:39.220 --> 01:41:00.220
+Will we work in a control centers we convey all operating positions convey their information to the flight director who can override anything you say in a time like that he's more listening to your tone of voice and he actually is what as much listen to your tone of voices is what you're saying because that in a time like decent that's what he's got to go on.
+
+01:41:00.220 --> 01:41:02.220
+You've been singing how well have you done it in the past.
+
+01:41:02.220 --> 01:41:04.220
+I'm not on that.
+
+01:41:04.220 --> 01:41:09.220
+It's been mentioned several times about the flight director can override.
+
+01:41:09.220 --> 01:41:29.220
+At the point of fact in a real time situation where you're dealing in seconds it's not likely he's going to override a guy that knows more about what he's talking about than he does but you're just not going to do that you've got to accept that the guy knows what he's doing and integrated into the rest of the things that are happening.
+
+01:41:29.220 --> 01:41:44.220
+And normally that's what you do now you've got hours to debate it you can say well let's talk about this and more but I don't ever recall in a short time frame I don't ever recall overriding like control.
+
+01:41:44.220 --> 01:42:05.220
+I kind of enjoyed the way the calm way in which Steve just said I did when you asked you made a decision as I recall at the time his voice was about eight octaves higher and going higher every time he was asking questions.
+
+01:42:05.220 --> 01:42:07.220
+You didn't need a headset.
+
+01:42:07.220 --> 01:42:08.220
+I love to get chosen.
+
+01:42:08.220 --> 01:42:09.220
+You need a headset.
+
+01:42:09.220 --> 01:42:12.220
+Yeah, crap commented.
+
+01:42:12.220 --> 01:42:18.220
+He says I heard that's the loudest go I ever heard in my life.
+
+01:42:18.220 --> 01:42:21.220
+Yes, the follow up question.
+
+01:42:21.220 --> 01:42:33.220
+Is there anybody in the free world that you just said would you not say that again?
+
+01:42:33.220 --> 01:42:35.220
+Sorry, the free world.
+
+01:42:35.220 --> 01:42:42.220
+What's the thought of you being on the panel and what's the full moon board?
+
+01:42:42.220 --> 01:42:44.220
+Oh going over the board rules.
+
+01:42:44.220 --> 01:42:47.220
+Steve might have an answer to it too.
+
+01:42:47.220 --> 01:42:54.220
+But my answer to that is there's a certain.
+
+01:42:54.220 --> 01:43:05.220
+Oh I'm sorry the question was do I do I believe that Neil would have gone ahead with the landing no matter what I think that's the tone of the intent of the question.
+
+01:43:05.220 --> 01:43:16.220
+I would say that all of us in the business we say a lot of things about what we're going to do and what we're not going to do.
+
+01:43:16.220 --> 01:43:19.220
+Conversation is cheap.
+
+01:43:19.220 --> 01:43:25.220
+You can hear anything you want from anybody and any of us have said things at times that really wouldn't probably turn out to be true.
+
+01:43:25.220 --> 01:43:40.220
+I would say though that in this in many other cases if not all I think people approach this thing one with a lot of confidence one with a lot of gusto but two with a lot of
+
+01:43:40.220 --> 01:43:55.220
+reasonableness and common sense about what they were getting into I would be the last to say that I would believe that a crew would go into a landing independent of what was facing them I think based with something they would find some way to judge it
+
+01:43:55.220 --> 01:44:08.220
+and make a decision as a matter of fact in the control center and in the cockpit over and over again we didn't make decisions on the basis of well we'll just try that.
+
+01:44:08.220 --> 01:44:23.220
+I'm going to do it because I feel that way today you know it doesn't work that way there generally is a pretty solid it might be a close call one way or another but there generally is a fairly solid basis for rationale for those kind of decisions and anybody that spend
+
+01:44:23.220 --> 01:44:42.220
+on that kind of a lot of things like life flying airplanes like Neil had knows that as a certain amount of common sense has to enter into any decision and I always had confidence that that kind of common sense would exercise so very hard to make general all inclusive statements.
+
+01:44:42.220 --> 01:45:10.220
+I think that Glenn Neil certainly as professional as anyone in the business and an integral part of this entire operations team that Glenn spoke about we had built he also had been involved not too many months earlier in a situation pretty close to the ground where it may or may not have worked and a decision was made for him to jump out of a machine and he did and it saved his life.
+
+01:45:10.220 --> 01:45:28.220
+I'm talking about the lunar lander trainer so he may I tend to think talks cheap but I tend to think had had Charlie Duke called the board we would have landed on Apollo 12.
+
+01:45:28.220 --> 01:45:57.220
+Let me add one thing there were there were a number of the law for seven and the first one we got was up very high over 20,000 feet and then Glenn made the point you know what basis did the crew have at that point they had very little they couldn't see the moon we had debated for hours and hours what was the highest altitude that we didn't care what happened it was safer to go ahead land and then doing anything else and it you know the most people said 2,000 feet
+
+01:45:57.220 --> 01:46:18.220
+maybe you could have stretched that to 5,000 maybe you could have stretched it to 7 but you could not have stretched that to 30,000 feet and so I think the answer might well have been different is you know something a thousand feet yeah something 30,000 feet and you can't see anything and have no earth idea how to manually guide yourself in I don't know what some.
+
+01:46:19.220 --> 01:46:27.220
+At the back of the suspenders question but it's a good story Joe we had to keep we had to keep putting that out.
+
+01:46:27.220 --> 01:46:48.220
+Interesting question about the angle that the Apollo 14 spaceship was sitting at after it had landed.
+
+01:46:48.220 --> 01:46:53.220
+I was on that in fact that did the decent on that.
+
+01:46:53.220 --> 01:46:58.220
+Hey hey hey hey you get another award.
+
+01:46:58.220 --> 01:47:02.220
+It had a cliff snail on it.
+
+01:47:02.220 --> 01:47:05.220
+The flat landing award Terry the flat landing.
+
+01:47:05.220 --> 01:47:15.220
+You know 14 it's funny I remember that now after you brought it up that's not what I talk about on 14 at all but it's being a problem because we
+
+01:47:15.220 --> 01:47:31.220
+didn't come anywhere near calling an abort it was tilted and frankly and maybe this because I was one of the last to know I didn't realize it was tilted as far as it was but it was within the limits and never coming close to calling the board.
+
+01:47:31.220 --> 01:47:44.220
+What we really had on 14 the gas retention is that if we were still in lunar orbit the abort button shorted so that in the lunar module which meant that as soon as we started the power descent it would have
+
+01:47:44.220 --> 01:47:49.220
+been the only way that the board had been able to get the board.
+
+01:47:49.220 --> 01:48:12.220
+So we spent and we had to read it up and octal for those of you because the only way those guys could get data into the computer we wanted them to feed it in was to put in a routine that a young man at MIT developed while we were in lunar orbit after the abort button like came on and we realized it was shorted.
+
+01:48:12.220 --> 01:48:26.220
+So we went into the computer and it would essentially take the computer around the abort button and let us go ahead and do the descent and they could have aborted in another fashion we had another way to abort with software.
+
+01:48:26.220 --> 01:48:40.220
+So we sat there I never will forget that on the front side pass and we had to read up all the numbers and Ed Mitchell was the lunar module pilot and he we watched it on the disk display the display keyboard display that we had on telemetry and he read out every number that he put in the
+
+01:48:40.220 --> 01:49:01.220
+very careful sequence because we weren't going to have a chance to check it out or anything like that but we did back him up and he put in that thing the board light was still on when we started burning and I remember kind of saying I hope this works because if we don't we're not going to land and it right past it and on we went.
+
+01:49:01.220 --> 01:49:18.220
+So 14 had we almost didn't make it because we couldn't get there the tilt was now it was probably and I can't remember the angle now does anybody it was probably eight degrees or so six eight degrees but it was it was bigger than anything we had seen before.
+
+01:49:18.220 --> 01:49:22.220
+That was an awfully rough area that they landed in on 14.
+
+01:49:22.220 --> 01:49:25.220
+So it was actually for Navy pilot Alan Shepherd is pretty good landing.
+
+01:49:25.220 --> 01:49:29.220
+Yeah, all right.
+
+01:49:29.220 --> 01:49:32.220
+Alan appreciate that.
+
+01:49:32.220 --> 01:49:36.220
+I know I wish you were here.
+
+01:49:36.220 --> 01:49:50.220
+Let's see right here in the front.
+
+01:49:50.220 --> 01:50:04.220
+The question is about the Gemini flights disasters were narrowly averted several times and were those more difficult decisions than some of those made during Apollo.
+
+01:50:04.220 --> 01:50:19.220
+I don't really I don't really think so I think the biggest difference in the two programs was was that we had fewer problems with the Apollo hardware the spacecraft than we had on Gemini.
+
+01:50:19.220 --> 01:50:44.220
+We we seem like every Gemini flight we lose a thruster and we have to work around that or something would small things would would go wrong and the Apollo spacecraft after the fire when they went to the block two and put that thing back together and fluid on seven was was always my penis superb spacecraft we just didn't have near the problems.
+
+01:50:44.220 --> 01:50:51.220
+So we did have some close calls on Gemini but I think overall it wasn't that much different.
+
+01:50:51.220 --> 01:51:08.220
+I was a lot of fun. I said earlier about the things we did we did almost everything you could do with the spacecraft and people in Earth orbit but but every flight we would talk about it was the fuel cells were flooding and what are we going to do now the thrusters were failing and how many do we have left and how we going to continue with this.
+
+01:51:08.220 --> 01:51:22.220
+I remember Cliff and I used to have a running argument once we started the V.A. flight after flight after flight with the program manager check Matthews because the little let me call it air conditioner in the suit that keeps the moisture out of the air.
+
+01:51:22.220 --> 01:51:37.220
+It was just wasn't it was like a half horsepower and it was getting a one horsepower worth a load of moisture and it just couldn't keep up the visors were always fogging up every time we went out and guys couldn't hang on the spacecraft and we would go and argue with the program manager.
+
+01:51:37.220 --> 01:51:56.220
+He kept telling us how this half horsepower air conditioner was designed exactly right and we would always agree. Yeah it's exactly right for a half horsepower air conditioner. We never did get one so we had a lot of foggy visors and spooky things actually associated with the EVA.
+
+01:51:56.220 --> 01:52:13.220
+In a manner of speaking the Gemini flights with a variety of systems failures really kind of tested the metal of the crews and Neil himself had to deal with an emergency landing at one point because of a control system problem on Gemini 8.
+
+01:52:13.220 --> 01:52:21.220
+But that was a real testing ground for the team of people and it was almost the flights were almost like the simulations.
+
+01:52:21.220 --> 01:52:49.220
+We had an expression which they later outlawed craft used to use this a lot about real time flight planning which gave one impression that we didn't have a flight plan when we started we made it up as we went and certain people took offense at that but we did do a lot of that and I can recall being over there two o'clock one morning with Dr. Loney we were doing a bootleg rendezvous.
+
+01:52:49.220 --> 01:53:07.220
+We had a one of the Gemini flights this was an idea glint had dreamed up about doing a type of rendezvous that would decrease the closing rates because the the rendezvous scheme we had had pretty high closing rates at the end.
+
+01:53:07.220 --> 01:53:23.220
+And we tried unsuccessfully to get that through the system so when we couldn't we went around the system and we finally got somebody that would say yes if it doesn't interfere with any of the scientific work that's going on on the experiments.
+
+01:53:23.220 --> 01:53:49.220
+So we said no problem so we did that about two o'clock in the morning and that's how I met Bob Pylon who was then the experiment program office manager I looked around and he was sitting up in the viewing room intently watching us I think to be sure that we did not do some of his experiment work but we did we did it all and we did the run.
+
+01:53:49.220 --> 01:54:07.220
+I remember one of the conversations with the guys from Washington we used to have what they call the mission director and he had a certain realization that we were a little bit strong minded on our own down there in the next level of the control center and bless his heart after we'd been doing things like this for six or eight Gemini flights.
+
+01:54:07.220 --> 01:54:17.220
+He came down and said to us look guys he says I know you're going to do anything you bloody well please anyway but will you please kind of let me know ahead of time so I can stay straight with my boss.
+
+01:54:17.220 --> 01:54:34.220
+Just a footnote to history on the rendezvous Glenn did on Gemini 10 it's the base although we did not use that on Apollo it is the rendezvous technique we used every time we rendezvous to shuttle with something because it is superb,
+
+01:54:34.220 --> 01:54:41.220
+we were producing big rendezvous and big heavy vehicles together and undoubtedly would be the one we rendezvous with space station on.
+
+01:54:41.220 --> 01:55:01.220
+And one other footnote, Gemini in my recollection and I was not a flight director then I was a flight controller in fact that was a GNC and so though we had I could say we did have the Gemini 8 problem which was very very serious and could have been a disaster but it was a whole series of little things.
+
+01:55:01.220 --> 01:55:28.220
+Every flight seemed to have unlike Apollo where you had these nagging thing every now and then but it was just a series of nagging things and I think that's what Gemini was all about was to shake out some of those kinds of we learned a lot about thrusters that is constantly were clogged and didn't work right but it sure it was good hardware and in Magnolidegos did a great job with that system.
+
+01:55:28.220 --> 01:55:35.220
+Yes question from the middle.
+
+01:55:35.220 --> 01:55:55.220
+The questions about later flights and incidents that the questioner is remembering board switches and things like that.
+
+01:55:55.220 --> 01:56:15.220
+I'll give you my answer and I'll let you guys tell you the truth but I got out after Apollo 15 and I was sentenced over to building one in the program office at that time because I was having too much fun I guess but after Apollo 15 which was the last flight I was on all the flights were easy.
+
+01:56:15.220 --> 01:56:18.220
+They were.
+
+01:56:18.220 --> 01:56:23.220
+It's a better fact after Apollo 12 and make the same comment they were all.
+
+01:56:23.220 --> 01:56:25.220
+If we got these two guys out they really were.
+
+01:56:25.220 --> 01:56:46.220
+You know 15 16 17 were that last block of spacecraft that were different slightly different in the whole shift of emphasis I'd say on 15 16 17 while we had science.
+
+01:56:46.220 --> 01:57:02.220
+I guess emphasis on on the earlier flights you could see a trend getting a star is we've done it enough times that the transportation the getting to and getting back was playing less a.
+
+01:57:02.220 --> 01:57:30.220
+We didn't have to spend quite as much time on worrying how to get there and back because we had done that enough that we then started putting a lot more time on the science you remember we brought in the rover on those later vehicles we had a thing called the Symbay which was the scientific bay on the side of the service module which was did some great winter mapping and things like that we didn't EVA on the way back home.
+
+01:57:30.220 --> 01:57:44.220
+We had to get that data out of that Symbay so that it took a slightly different flavor 50 my recollection of 15 16 and 17 were no.
+
+01:57:44.220 --> 01:57:59.220
+And I may since I say that somebody's going to remember one but I don't remember the big showstopper kinds of problems we we as a sale 14 we almost didn't get docked but 15 was pretty good we had some crew problems there.
+
+01:57:59.220 --> 01:58:26.220
+With some what we later determined more about heart cardiovascular systems during that period and I ever thought I'd know and it was because of low potassium levels and it makes the heart do some funny things we had some problems with that on on 15 is scared us because we didn't know quite what was once we understood it we kind of over did it on Apollo 16 we load in up with potassium to the point they were uncomfortable.
+
+01:58:26.220 --> 01:58:31.220
+And that's all I say about that.
+
+01:58:31.220 --> 01:58:46.220
+Maybe by 17 we might got it about right we had a lot of I can remember I think it was Apollo 17 where we lost the fender on the rover and nobody would have ever thought that that would have been a big problem but it on the rover on the
+
+01:58:46.220 --> 01:59:03.220
+lunar surface in this fine dust without a fender on there it was throwing this dirt straight up in here and covering everything and we finally had him fashion a fake or a little fender out using some checklist they actually
+
+01:59:03.220 --> 01:59:32.220
+pull some checklist and got off and they used some clips to fashion a little fender to keep so as little stuff like that I don't remember and we got those great shots remember when Fendell worked he spent a career on figuring out how to get that shot when we had the TV left on the moon of the ascent module coming off and timing because of the four second delay he had to send commands early and zoom back and tilt and we were really getting down to kind of fine tuning as I remember in those days.
+
+01:59:32.220 --> 01:59:37.220
+Last three fights and I guess it was easier with these guys.
+
+01:59:37.220 --> 01:59:52.220
+By the way at that time of the program we had the services of one Joe Allen is the capcom in the control center for quite a while and there were a lot of reasons that people speculated why that was so Joe came to us with a PhD and something or another.
+
+01:59:52.220 --> 02:00:15.220
+And was generally thought of as a brilliant young man although I can never understand exactly what it was about that but Joe carried that off very well and he used their range for us to go on geology trips and try to learn things like that but now I learned something here this afternoon I think he just learned some words from his two year old son and faked it.
+
+02:00:15.220 --> 02:00:44.220
+But Jerry mentioned this rover and Joe was the capcom in the control center and I was still there on Apollo 15 and the guys had this rover and astronauts are kind of a fighter pilot lot and they liked this little machine and I used to watch it on TV and it went too fast and they would drive it fast down the hill and the one flight I flew with the rover on the surface and those guys up there running it bloody thing.
+
+02:00:44.220 --> 02:00:58.220
+I kept asking Joe Joe please get them to slow down please not so sharp at turn and he would give me an earth rock expression and go right on with whatever it is.
+
+02:00:58.220 --> 02:01:01.220
+It's like they know what they're doing.
+
+02:01:01.220 --> 02:01:08.220
+Actually easy for us to say with the with the lower gravity it's a lot easier to roll you could have used it.
+
+02:01:08.220 --> 02:01:13.220
+I was more worried than I let on to director running at the time.
+
+02:01:13.220 --> 02:01:25.220
+Jerry expressed it pretty well by then we were our major problems were bent fenders about by the time we flew Apollo 17 we learned how to do it and it's.
+
